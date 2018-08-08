@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.apkglobal.tourismguide.SendMail">
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+    <android.support.percent.PercentRelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+<TextView
+    android:layout_width="0dp"
+    android:layout_height="0dp"
+    app:layout_widthPercent="50%"
+    app:layout_heightPercent="10%"
+    app:layout_marginLeftPercent="25%"
+    app:layout_marginTopPercent="2%"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:textSize="20sp"
+    android:textColor="#000"
+    android:textAlignment="center"
+    android:text="Send Feedback"/>
+
+        <EditText
+            android:id="@+id/email"
+            app:layout_widthPercent="50%"
+            app:layout_heightPercent="15%"
+            app:layout_marginLeftPercent="25%"
+            app:layout_marginTopPercent="15%"
+            android:layout_gravity="center"
+            android:hint="Email Address"
+            android:inputType="textEmailAddress"
+            />
+        <EditText
+            app:layout_widthPercent="50%"
+            app:layout_heightPercent="15%"
+            app:layout_marginLeftPercent="25%"
+            app:layout_marginTopPercent="35%"
+            android:hint="Subject"
+            android:layout_gravity="center"
+            android:id="@+id/subject"
+            />
+        <EditText
+            app:layout_widthPercent="50%"
+            app:layout_heightPercent="30%"
+            app:layout_marginLeftPercent="25%"
+            app:layout_marginTopPercent="46%"
+            android:hint="Feedback"
+            android:layout_gravity="center"
+            android:id="@+id/feedback"
+            />
+        <Button
+            app:layout_widthPercent="50%"
+            app:layout_heightPercent="8%"
+            app:layout_marginLeftPercent="25%"
+            app:layout_marginTopPercent="77%"
+            android:background="@drawable/round_button_setting"
+            android:text="SEND"
+            android:id="@+id/send"
+            />
+    </android.support.percent.PercentRelativeLayout>
+    </FrameLayout>
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:background="?android:attr/windowBackground"
+        app:menu="@menu/navigation" />
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fcf9fa"
+    android:orientation="vertical"
+    tools:context="com.apkglobal.tourismguide.PlacesAPIActivity">
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+<android.support.percent.PercentRelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="10%"
+        app:layout_marginLeftPercent="25%"
+        app:layout_marginTopPercent="10%"
+        android:text="Search Near By Places"
+        android:id="@+id/currentButton"
+        android:background="@drawable/round_button_setting"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="10%"
+        app:layout_marginLeftPercent="25%"
+        app:layout_marginTopPercent="25%"
+        android:id="@+id/textView"
+        android:layout_marginTop="50dp"
+        android:textColor="#000"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="10%"
+        app:layout_marginLeftPercent="25%"
+        app:layout_marginTopPercent="35%"
+        android:id="@+id/textView2"
+        android:textColor="#000"
+        android:layout_marginTop="80dp"
+        android:textAlignment="center"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_widthPercent="50%"
+        app:layout_heightPercent="10%"
+        app:layout_marginLeftPercent="25%"
+        app:layout_marginTopPercent="45%"
+        android:id="@+id/textView3"
+        android:layout_marginTop="100dp"
+        android:textColor="#000"
+        android:textAlignment="center"
+        />
+</android.support.percent.PercentRelativeLayout>
+</FrameLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/windowBackground"
+        android:layout_gravity="bottom"
+        app:menu="@menu/navigation" />
+
+
+</LinearLayout>

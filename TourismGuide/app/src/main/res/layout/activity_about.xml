@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_weight="1"
+    tools:context="com.apkglobal.tourismguide.About">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="8dp">
+        <android.support.percent.PercentRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="About"
+            android:textColor="#000"
+            android:id="@+id/tv1"
+            android:textStyle="bold"
+           android:textAlignment="center"
+            android:textSize="20dp"
+            android:layout_marginTop="1dp" />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="100%"
+            app:layout_heightPercent="10%"
+            app:layout_marginTopPercent="10%"
+            android:text="Tourism Guide is an approach to help people who want to plan their holidays or who want to explore beauty of India."
+            android:textColor="#000"
+            android:textStyle="italic"
+            android:textAlignment="center"
+            android:id="@+id/tv2"
+         />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="100%"
+            app:layout_heightPercent="15%"
+            app:layout_marginTopPercent="20%"
+            android:text="First, app has an option 'SEARCH BY MONTH',this allows you to select month in which you would like to make a trip and provides a list of 5 most prefered places to visit in that particular month."
+            android:textColor="#000"
+            android:id="@+id/tv3"
+            android:textStyle="italic"
+            android:textAlignment="center"
+
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="100%"
+            app:layout_heightPercent="15%"
+            app:layout_marginTopPercent="37%"
+            android:text="Second,app has an option 'SEARCH BY STATE'.In this,you can choose the prefered state and can get a list of top places to visit in that particular state."
+            android:textColor="#000"
+            android:id="@+id/tv4"
+            android:textStyle="italic"
+            android:textAlignment="center"
+
+          />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="100%"
+            app:layout_heightPercent="20%"
+            app:layout_marginTopPercent="50%"
+            android:text="Third,app has an option 'NEAR BY PLACES'.Through this,you can get the information of all registered near by places.This can help you,lets say,if you are already on a trip and are unaware of nearby areas,this will show you the list of all the nearby places helping you in chosing your destination."
+            android:textColor="#000"
+            android:id="@+id/tv5"
+            android:textStyle="italic"
+            android:textAlignment="center"
+
+            />
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_widthPercent="100%"
+            app:layout_heightPercent="20%"
+            app:layout_marginTopPercent="72%"
+            android:text="We hope that you have a wonderful experience during your trip and you create some beautiful memories to always remember. You can tell us about your experience by rating our app,click below to rate our app."
+            android:textColor="#000"
+            android:id="@+id/tv6"
+            android:textStyle="italic"
+            android:textAlignment="center"
+
+           />
+
+<Button
+    android:layout_height="0dp"
+    android:layout_width="0dp"
+    app:layout_widthPercent="50%"
+    app:layout_heightPercent="8%"
+    app:layout_marginTopPercent="90%"
+    app:layout_marginLeftPercent="25%"
+    app:layout_marginRightPercent="25%"
+    android:background="@drawable/rate_us2"
+    android:textStyle="bold"
+    android:id="@+id/rate_us"
+    />
+    </android.support.percent.PercentRelativeLayout>
+    </FrameLayout>
+
+<android.support.design.widget.BottomNavigationView
+android:id="@+id/navigation"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_gravity="bottom"
+    android:background="?android:attr/windowBackground"
+app:menu="@menu/navigation" />
+</LinearLayout>

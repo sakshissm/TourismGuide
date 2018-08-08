@@ -1,0 +1,1282 @@
+<resources>
+    <string name="app_name">TourismGuide</string>
+    <string name="month">Search By Month</string>
+    <string name="states">Search By State</string>
+    <string name="near_by">near by places</string>
+    <string name="ap_desc1">Venkateswara Temple is a landmark Vaishnavite temple situated in the hill town of Tirumala at Tirupati in Chittoor district of Andhra Pradesh, India.</string>
+    <string name="ap_add1">Address: S Mada St, Tirumala, Tirupati, Andhra Pradesh 517504 Phone: 0877 227 7777</string>
+    <string name="ap_desc2">The Rama Krishna Mission Beach is one of the most popular beach parks in Visakhapatnam, Andhra Pradesh. It gets its name from the Ramakrishna Mission ashrama across the Beach Road from the park.</string>
+    <string name="ap_add2">Address: opposite Ramakrishna Mission Ashrama, Visakhapatnam, Andhra Pradesh 530003</string>
+    <string name="ap_desc3">The Veerabhadra temple is in Lepakshi in the Anantapur district of the Indian state of Andhra Pradesh.</string>
+    <string name="ap_add3">Address: Lepakshi Temple Rd, Lepakshi, Andhra Pradesh 51533 Phone: 094480 51023</string>
+    <string name="ap_desc4">Sri Bhramaramba Mallikarjuna Temple is a Hindu temple dedicated to the deities Shiva and Parvati, located at Srisailam in Indian state of Andhra Pradesh.</string>
+    <string name="ap_add4">Address: Srisaila Devasthanam, Srisailam, Andhra Pradesh 518101 Phone: 085242 88883</string>
+    <string name="ap_desc5">The Belum Caves is the largest and longest cave system open to the public on the Indian subcontinent, known for its speleothems, such as stalactite and stalagmite formations.</string>
+    <string name="ap_add5">Address: Kurnool, Andhra Pradesh 518123 Phone: 097053 89600</string>
+    <string name="ap_desc6">Kanaka Durga Temple is a famous hindu Temple of Goddess Durga located in Vijayawada, Andhra Pradesh. The temple is located on the Indrakeeladri hill, on the banks of Krishna River. </string>
+    <string name="ap_add6">Address: Indrakeeladri, Arjuna Street, Mallikarjunapeta, Vijayawada, Andhra Pradesh 520001 Phone: 1800 425 9099</string>
+    <string name="ap_desc7">The Shri Varaha Lakshmi Narasimha temple, Simhachalam is a South Indian Hindu temple situated on the Simhachalam hill, which is 800 metres above the sea level at a distance of ten miles to the north of Visakhapatnam, Andhra Pradesh.</string>
+    <string name="ap_add7">Address: Simhachalam Hill, Near Gopalpattam Police Station, Visakhapatnam, Andhra Pradesh 530028 Phone: 089127 64949</string>
+    <string name="ap_desc8">The Talakona waterfall is in Sri Venkateswara National Park, Chittoor District of Andhra pradesh in India. With a 270 feet-fall, Talakona is the highest waterfall in the Andhra pradesh state</string>
+    <string name="ap_add8">Address: Chittoor District, Tirupathi, Andhra Pradesh 516101 Phone: 1800 4254 5454</string>
+    <string name="ap_desc9">Srikalahasti Temple is located in the town of Srikalahasti, in the state of Andhra Pradesh, India. It is one of the most famous Shiva temples in South India, and is said to be the site where Kannappa was ready to offer both his eyes to cover blood flowing from the Siva linga before the Lord Siva stopped him and granted him mukti.</string>
+    <string name="ap_add9">Address: Srikalahasti, Andhra Pradesh 517644 Phone: 085782 22240</string>
+    <string name="ap_desc10">INS Kursura (S20) was a Kalvari-class diesel-electric submarine of the Indian Navy. She was India\'s fifth submarine. Kursura was commissioned on 18 December 1969 and was decommissioned on 27 February 2001 after 31 years of service.</string>
+    <string name="ap_add10">Address: R. K. Beach Road, Kirlampudi Layout, Chinna Waltair, Paanduranga Puram, Visakhapatnam, Andhra Pradesh 530017 Phone: 089127 54133</string>
+
+    <string-array name="arp_places">
+        <item>Parshuram Kund</item>
+        <item>Golden Pagoda, Namsai</item>
+        <item>Jawaharlal Nehru Museum, Itanagar</item>
+        <item>Roing PicNic Spot</item>
+        <item>Namdapha National Park</item>
+        <item>Golden Pagoda</item>
+        <item>Deopani Park</item>
+        <item>Sakteng Wildlife Sanctuary</item>
+        <item>Pangsau Pass</item>
+        <item>Botanical Garden</item>
+    </string-array>
+    <string-array name="arp_desc">
+        <item>Parshuram Kund is a Hindu pilgrimage centre situated on the Brahmaputra plateau in the lower reaches of the Lohit River and 21 km north of Tezu in Lohit district of Arunachal Pradesh.</item>
+        <item>The Golden Pagoda of Namsai, also known as Kongmu Kham in the Khamti language is a Burmese style Buddhist temple that was opened in 2010. It is located on a 20 hectare complex in Namsai District of Arunachal Pradesh.</item>
+        <item>The Jawaharlal Nehru State Museum also referred as Jawaharlal Nehru Museum is the state museum of Arunachal Pradesh, in Itanagar. Established in the 1980s, it showcases aspects of tribal life of Arunachal Pradesh, India.</item>
+        <item>Roing is a district headquarters of Lower Dibang Valley district in the Indian state of Arunachal Pradesh.</item>
+        <item>Namdapha National Park is the largest protected area in the Eastern Himalaya biodiversity hotspot and is located in Arunachal Pradesh in Northeast India. It is also the third largest national park in India in terms of area.</item>
+        <item>The Golden Pagoda of Namsai, also known as Kongmu Kham in the Khamti language is a Burmese style Buddhist temple that was opened in 2010. It is located on a 20 hectare complex in Namsai District of Arunachal Pradesh.</item>
+        <item>Roing, one of the jewels of Arunachal Pradesh, is situated in Lower Dibang ... Nehru Van Udyan lies majestically on Deopani River banks and it is a kilometer away from Roing. This amazing forest park has beautiful orchids and cactus house.</item>
+        <item>Sakteng Wildlife Sanctuary is a wildlife sanctuary located mostly in Trashigang District and just crossing the border into Samdrup Jongkhar District, Bhutan. It is one of the country\'s protected areas.</item>
+        <item>Pangsau Pass or Pan Saung Pass, 3,727 feet in altitude, lies on the crest of the Patkai Hills on the India-Burma border. The pass offers one of the easiest routes into Burma from the Assam plains.</item>
+        <item>This is a major tourist attraction in Arunachal Pradesh. The Tezu Botanical Garden is dotted with varieties of flora that covers a sprawling 23 hectares of land.</item>
+
+    </string-array>
+    <string-array name="arp_add">
+        <item>Address: Parsuram Kund, Arunachal Pradesh 792102</item>
+        <item>Address: Namsai Town Rd, Minister Market, Namsai, Arunachal Pradesh 792103 Opened: 2010 Phone: 087300 81650</item>
+        <item>Address:Itanagar</item>
+        <item>Address: Roing, Arunachal Pradesh 792110 Hours: Open now ·Add full hours Phone: 081348 97656</item>
+        <item>Address: Director, Namdapha Tiger Reserve, MV Road, Arunachal Pradesh 792122 Area: 767 mi² Hours: Open ⋅ Closes 8:30PM Established: 1974</item>
+        <item>Address: National Highway 52, Arunachal Pradesh 79210 Phone: 094027 88362</item>
+        <item>Address: Roing, Arunachal Pradesh 792110 Hours: Open ⋅ Closes 4PM</item>
+        <item>Address: Bhutan Area: 289.6 mi² Hours: Open now ·Add full hours Phone: +975 17 71 48 53</item>
+        <item>Elevation: 1,136 m Range: Himalayas Location: Arunachal Pradesh, India–Burma border</item>
+        <item>Address: Tezu, Arunachal Pradesh 792001</item>
+    </string-array>
+
+    <string-array name="asm_places">
+        <item>Kaziranga National Park</item>
+        <item>Kamakhya Temple</item>
+        <item>Pobitora Wildlife Sanctuary</item>
+        <item>Umananda Island</item>
+        <item>Assam State Zoo cum Botanical Garden</item>
+        <item>Dibru-Saikhowa National Park</item>
+        <item>Umananda Temple</item>
+        <item>Talatal Ghar</item>
+        <item>Orang National Park</item>
+        <item>Agnigarh</item>
+    </string-array>
+    <string-array name="asm_desc">
+        <item>Kaziranga National Park is a protected area in the northeast Indian state of Assam. Spread across the floodplains of the Brahmaputra River, its forests, wetlands and grasslands are home to tigers, elephants and the world’s largest population of Indian one-horned rhinoceroses. Ganges River dolphins swim in the park’s waters. It’s visited by many rare migratory birds, and gray pelicans roost near Kaziranga village.</item>
+        <item>The Kamakhya Temple also Kamrup-Kamakhya is a Hindu temple dedicated to the mother Goddess Kamakhya. It is one of the oldest of the 51 Shakti Pithas.</item>
+        <item>Pobitora or Pabitora Wildlife Sanctuary is a wildlife reserve in the Morigaon district of the state of Assam in India. It is located about 30 km east of Guwahati. The Pobitora Wildlife Sanctuary is about 48 km by road from Guwahati. </item>
+        <item>Umananda Island is the smallest river island in the midst of river Brahmaputra flowing through the city of Guwahati in Assam, a state in northeast India. The British named the island Peacock Island for its shape.</item>
+        <item>The Assam State Zoo cum Botanical Garden is the largest of its kind in the North East region and it is spread across 432 acre. The zoo is located within the Hengrabari Reserved Forest at Guwahati, India. </item>
+        <item>Dibru-Saikhowa (Pron: ˈdɪbru: ˌsaɪˈkəʊwə) National Park is a national park in Assam, India. It is located in Dibrugarh and Tinsukia districts and was designated a Biosphere Reserve in July 1997 with an area of 765 km2 (295 sq mi), including a core area of 340 km2 (130 sq mi) and a buffer zone of 425 km2 (164 sq mi).</item>
+        <item>Umananda Devaloi is a Shiva temple located at the Peacock Island in the middle of river Brahmaputra just opposite the office of the Deputy Commissioner of Kamrup or the Kachari Ghat in Guwahati.</item>
+        <item>The Talatal Ghar is located in Rangpur, 4 km from present-day Sivasagar, in Upper Assam. Of all Ahom ruins, it is one of the grandest examples of Tai Ahom architecture. The Talatal Ghar is also the largest of all Tai Ahom monuments.</item>
+        <item>The Orang National Park also known as Rajiv Gandhi Orang National Park which is located on the north bank of the Brahmaputra River in the Darrang and Sonitpur districts of Assam, India, covers an area of 78.81 square kilometres.</item>
+        <item>Agnigarh is a hillock located in Tezpur, Assam, India. In Hindu mythology, it is the site of the fortress which was built by Banasura to keep his daughter Usha in isolation. The name itself is derived from the words \'Agni\' and \'garh\' in Sanskrit.</item>
+    </string-array>
+    <string-array name="asm_add">
+        <item>Address: Kanchanjuri, Assam 784177  Area: 166 mi² Hours: Open 24 hours Established: 1908 Phone: 03776 268 095 Nearest town: Bokakhat Province: Assam</item>
+        <item>Address: Kamakhya, Guwahati, Assam 781010 Opened: 1565 Phone: 0361 273 4624 Number of temples: 6 Function: Hindu Temple</item>
+        <item>Address: Pobitora Forest Range Office Road, Pabitara, Assam 782411 Area: 14.98 mi² Hours: Open ⋅ Closes 5PM</item>
+        <item>Address: Island in Guwahati, Assam</item>
+        <item>Address: RG Baruah Road, Guwahati, Assam 781005 Area: 432 acres Opened: 1958 Hours: Open ⋅ Closes 5:30PM Phone: 076640 81875 Number of animals: 895 Number of species: 118</item>
+        <item>Address: Laika Gaon, Assam 786150 Area: 135.1 mi² Established: 1999</item>
+        <item>Address: Peacock Island, North Guwahati, Guwahati, Kamrup, Assam 781030</item>
+        <item>Address: Duboroni Ali Road, Joysagar, Dicial Dhulia Gaon, Assam 785697 Opened: 1769 Hours: Open ⋅ Closes 4PM Construction started: 1751 Phone: 098647 02493</item>
+        <item>Address: Singari Bangali Gaon, Assam 784110 Area: 30.43 mi² Phone: 03713 230 022</item>
+        <item>Address: Mahabhairab, Tezpur, Assam 784001 Hours: Open ⋅ Closes 6PM Phone: 088761 62425</item>
+    </string-array>
+
+    <string-array name="bhr_places">
+        <item>Mahabodhi Temple</item>
+        <item>Golghar</item>
+        <item>Sanjay Gandhi Jaivik Udyan</item>
+        <item>Takht Sri Patna Sahib</item>
+        <item>Barabar Caves</item>
+        <item>Patna Museum</item>
+        <item>Buddha Smriti Park</item>
+        <item>Mahatma Gandhi Setu</item>
+        <item>Mahavir Mandir</item>
+        <item>Eco Park, Patna</item>
+    </string-array>
+    <string-array name="bhr_desc">
+        <item>The Mahabodhi Temple, a UNESCO World Heritage Site, is an ancient, but much rebuilt and restored, Buddhist temple in Bodh Gaya, marking the location where the Buddha is said to have attained enlightenment. </item>
+        <item>The Golghar or Gol Ghar, is a large granary located to the west of the Gandhi Maidan in Patna, capital of Bihar state, India. </item>
+        <item>Sanjay Gandhi Jaivik Udyan is located off Bailey Road in Patna, Bihar, India. The park was opened to the public as a zoo in 1973. The park is Patna\'s most frequented picnic spot, with more than 36,000 visitors on New Year\'s Day alone in 2011.</item>
+        <item>Takht Sri Patna Sahib also known as Harmandar Sahib, is a Gurdwara in the neighbourhood of Patna Sahib, India. It was to commemorate the birthplace of Guru Gobind Singh Ji, the tenth Guru of the Sikhs on December 1666.</item>
+        <item>The Barabar Hill Caves are the oldest surviving rock-cut caves in India, mostly dating from the Maurya Empire, some with Ashokan inscriptions, located in the Makhdumpur region of Jehanabad district, Bihar, India, 24 km north of Gaya.</item>
+        <item>Patna Museum is the state museum of the Indian state of Bihar. Started on 3 April 1917 during the British Raj to house the historical artefacts found in the vicinity of Patna, it is in the style of Mughal and Rajput architecture and is known locally as the Jadu Ghar.</item>
+        <item>Buddha Smriti Park also known as Buddha Memorial Park is an urban park located on Frazer Road near Patna Junction in Patna, India. This park has been developed by the Bihar Government to commemorate the 2554th birth anniversary of the Buddha.</item>
+        <item>Mahatma Gandhi Setu is a bridge over the river Ganges connecting Patna in the south to Hajipur in the north of Bihar. Its length is 5,750 metres and it is the second longest river bridge in India. </item>
+        <item>Mahavir Mandir is one of the holiest Hindu temples dedicated to Lord Hanuman, located in Patna, Bihar, India. Millions of pilgrims visit the temple every year. Acharya Kishore Kunal is the secretary of the Mahavir Mandir Temple Trust, Patna.</item>
+        <item>The park is full of green areas with more than 3,000 varieties of plants, and has two large sections. The first section has a children corner, food court, and several fountains. The second part has theme parks like Rashi Van, Guru Vatika, Panchwati and Kewli Van. Additionally, the park hosts sculptures like the Cactus by Subodh Gupta among others.</item>
+    </string-array>
+    <string-array name="bhr_add">
+        <item>Address: Bodhgaya, Bihar 824231 Opened: 260 BC Height: 180\′ Area: 12 acres Built by: Ashoka Phone: 0631 220 0735</item>
+        <item>Address: Golghar Chowrah, Ashok Rajpath, Chajju Bagh, Patna, Bihar 800001 Height: 95\′ Opened: July 20, 1786 Hours: Open ⋅ Closes 5PM</item>
+        <item>Address: Bailey Road, Raj Bhavan, Rajbansi Nagar, Patna, Bihar 800001 Area: 153 acres Opened: 1973 Hours: Open ⋅ Closes 6PM Phone: 0612 221 7455 Number of animals: 800</item>
+        <item>Address: Patna - Aurangabad Road, Mithapur Farm Area, Mithapur, Patna, Bihar 800001 Phone: 0612 264 1821 Architectural style: Sikh architecture Creator: Ranjit Singh</item>
+        <item>Address: Barabar Hill Road, Barabar, Sultanpur, Bihar 804405</item>
+        <item>Address: Near Kotwali Thana, Budh Marg, Patna, Bihar 800001 Opened: 1917 Hours: Open ⋅ Closes 5PM Phone: 0612 223 5731 Number of visitors: 800,119 (2007)</item>
+        <item>Address: Fraser Road, Near Patna Railway Station, Patna Junction, Patna, Bihar 800001</item>
+        <item>Address: Chapra-Patna Hwy, Terahrasia, Bihar 844101 Total length: 18,865\′ Width: 82\′ Opened: May 1982 Construction started: 1972 Location: Patna Body of water: Ganges</item>
+        <item>Address: Fraser Road Area, Patna, Bihar 800001 Phone: 0612 222 3789</item>
+        <item>Address: Jawahar Lal Nehru Marg, Rajbansi Nagar, Patna, Bihar 800015 Hours: Open ⋅ Closes 8PM Phone: 070500 09192</item>
+    </string-array>
+
+    <string-array name="chtg_places">
+        <item>Chitrakote Falls</item>
+        <item>Bhoramdeo Temple</item>
+        <item>Teerathgarh Falls</item>
+        <item>Indravati National Park</item>
+        <item>Nandanvan Jungle Safari</item>
+        <item>Maitri Bagh</item>
+        <item>Kanan Pendari Zoological Garden Bilaspur</item>
+        <item>Mahamaya Temple</item>
+        <item>Maa Bamleshwari Temple</item>
+        <item>Maikal Hills</item>
+    </string-array>
+    <string-array name="chtg_desc">
+        <item>The Chitrakoot Falls is a natural waterfall located to the west of Jagdalpur, in Bastar district in the Indian state of Chhattisgarh on the Indravati River. It is located at a distance of 38 kilometres to the west of Jagdalpur.</item>
+        <item>Bhoramdeo Temple is a complex of Hindu temples dedicated to the god Shiva in Bhoramdeo, in the Indian state of Chhattisgarh. It comprises a group of four temples of which the earliest is a brick-temple. </item>
+        <item>The Teerathgarh Falls is a waterfall near Jagdalpur at Kanger Ghati in Bastar district in the Indian state of Chhattisgarh.</item>
+        <item>Indravati National Park is a national park located in Bijapur district of Chhattisgarh state of India. It derives its name from the nearby Indravati River. It is home to one of the last populations of rare wild buffalo.</item>
+        <item>Manmade park offering safari-style tours through open areas with deer, lions, tigers and bears.</item>
+        <item>The Maitri Bagh Zoo is located in the Bhilai, India. It Is the biggest zoo in the region. The zoo comprises 111 acres of park lands. It is run by the Public Sector Undertaking, Steel Authority of India Limited. </item>
+        <item>Large, popular zoo featuring a variety of animals such as peacocks, hippopotamus, lions and tigers.</item>
+        <item>Mahamaya Temple is temple dedicated to dual Goddess Lakshmi and Saraswati, located in Ratanpur and is one of the 52 Shakti Peethas, shrines of Shakti, the divine feminine, spread across India. </item>
+        <item>Hindu temple built on a rocky outcrop with cable car access.</item>
+        <item>The Maikal Hills are range of hills in the state of Chhattisgarh India. The Maikal Hills are an eastern part of the Satpuras in Kawardha District of Chhattisgarh, overlooking the scenic town of Kawardha. </item>
+    </string-array>
+    <string-array name="chtg_add">
+        <item>Address: Tiratha, Chhattisgarh 494010 Height: 100\′ Phone: 099075 89699</item>
+        <item>Address: Chhattisgarh 491995 Phone: 080859 89809</item>
+        <item>Address: Kanger Valley National Park, Tirathgarh, Chhattisgarh 494442 Height: 299\′ Phone: 091110 09040</item>
+        <item>Address: Dantewada, Chhattisgarh 494444 Phone: 077822 25073</item>
+        <item>Address: Sector 39, Khanduwa, Naya Raipur, Chhattisgarh 493661 Phone: 074406 09000</item>
+        <item>Address: Maroda Sector, Bhilai, Chhattisgarh 490006 Phone: 0788 285 8331</item>
+        <item>Address: State Highway 7, Jabalpur Road, Bilaspur, Chhattisgarh 495003</item>
+        <item>Location: Ratanpur District: Bilaspur district, Chhattisgarh</item>
+        <item>Address: Dongargarh, Chhattisgarh 491445 Phone: 078232 32990</item>
+        <item>Elevation: 941 m Rivers: Narmada and Wainganga</item>
+    </string-array>
+
+    <string-array name="goa_places">
+        <item>Dudhsagar Falls</item>
+        <item>Basilica of Bom Jesus</item>
+        <item>Fort Aguada</item>
+        <item>Cabo de Rama</item>
+        <item>Se Cathedral</item>
+        <item>Chapora Fort</item>
+        <item>Shanta Durga Temple</item>
+        <item>Chapora Beach</item>
+        <item>Our Lady of the Immaculate Conception Church, Goa</item>
+        <item>Salim Ali Bird Sanctuary</item>
+    </string-array>
+    <string-array name="goa_desc">
+        <item>Dudhsagar Falls is a four-tiered waterfall located on the Mandovi River in the Indian state of Goa. It is 60 km from Panaji by road and is located on the Madgaon-Belgavi rail route about 46 km east of Madgaon and 80 km south of Belgavi. </item>
+        <item>The Basilica of Bom Jesus or Borea Jezuchi Bajilika is located in Goa, India, and is a UNESCO World Heritage Site. The basilica holds the mortal remains of St. Francis Xavier. </item>
+        <item>Fort Aguada and its lighthouse is a well-preserved seventeenth-century Portuguese fort standing in Goa, India, on Sinquerim Beach, overlooking the Arabian Sea.</item>
+        <item>Cabo de Rama is a fort in Goa, India.</item>
+        <item>The Sé Catedral de Santa Catarina, known as Se Cathedral, is the cathedral of the Latin Rite Roman Catholic Archdiocese of Goa and Daman and the seat of the Patriarch of the East Indies. It is located in Old Goa, India.</item>
+        <item>Chapora Fort, located in Bardez, Goa, rises high above the Chapora River. Before the Portuguese arrived in Goa in 1510, this location was the site of another fort. The fort changed hands several times after Portuguese acquired Bardez.</item>
+        <item>Shri Shantadurga Temple is a Private temple complex belonging to Goud Saraswat Brahmin community. 30 km from Panaji at the foothill of Kavalem village in Ponda Taluka, Goa, India.</item>
+        <item>Chapora Beach is a coastal village at Chapora River estuary lying alongside a beach stretch in North Goa that is around 10 km. from Mapusa, a City in Northern Goa. It is close to Chapora Fort, an old Portuguese fort. </item>
+        <item>The Our Lady of the Immaculate Conception Church is located in Panjim, Goa, India. The Church conducts mass every day in English, Konkani, and Portuguese.</item>
+        <item>Salim Ali Bird Sanctuary is an estuarine mangrove habitat, which is declared as the bird sanctuary, and located on western tip of the Island of Chorão along the Mandovi River, Goa, in India. </item>
+    </string-array>
+    <string-array name="goa_add">
+        <item>Address: Sonaulim, Goa 403410 Phone: 0832 243 7728</item>
+        <item>Address: Old Goa Rd, Bainguinim, Goa 403402 Phone: 0832 228 5790</item>
+        <item>Address: Fort Aguada Road, Aguada Fort Area, Candolim, Goa 403515 Phone: 098235 93995</item>
+        <item>Address: Taluka Cabo da Rama, Canacona, Goa 403702</item>
+        <item>Address: Velha, Goa 403402 Phone: 0832 228 4710</item>
+        <item>Address: Chapora Fort Rd, North Goa, Chapora, Goa 403509 Phone: 0832 249 4200</item>
+        <item>Address: Kapileswari - Kavlem Rd, Donshiwado, Ponda, Goa 403401 Phone: 0832 231 9900</item>
+        <item>Address: at the distance of 10 km from Mapusa.</item>
+        <item>Address: Rua José Falcão, Altinho, Panaji, Goa 403001 Phone: 0832 242 6939</item>
+        <item>Address: Chorao Island, Ilhas, Ribandar, Goa 403006 Phone: 0832 222 8772 Established: 1988</item>
+    </string-array>
+
+    <string-array name="gurt_places">
+        <item>Somnath temple</item>
+        <item>Gir Forest National Park</item>
+        <item>Girnar</item>
+        <item>Sabarmati Ashram</item>
+        <item>Dwarkadhish Temple</item>
+        <item>Rani ki vav</item>
+        <item>Lothal</item>
+        <item>Kankaria Lake</item>
+        <item>Adalaj Stepwell</item>
+        <item>Nageshvara Jyotirlinga</item>
+    </string-array>
+    <string-array name="gurt_desc">
+        <item>The Somnath temple located in Prabhas Patan near Veraval in Saurashtra on the western coast of Gujarat, is believed to be the first among the twelve jyotirlinga shrines of Shiva. It is an important pilgrimage and tourist spot of Gujarat.</item>
+        <item>Gir Forest National Park is a wildlife sanctuary in Gujarat, western India. It was established to protect Asiatic lions, who frequent the fenced-off Devalia Safari Park, along with leopards and antelopes. Gir Jungle Trail, outside the fenced area, traverses deciduous forest and is home to wildlife including vultures and pythons. The Kamleshwar Dam has marsh crocodiles and birds, such as Indian skimmers and pelicans.</item>
+        <item>Girnar, also known as Girinagar or Revatak Parvata, is a group of mountains in the Junagadh District of Gujarat, India, situated near Junagadh. Is considered older than the Himalayas, Girnar, the mountain and its range are considered sacred.</item>
+        <item>Sabarmati Ashram is located in the Sabarmati suburb of Ahmedabad, Gujarat, adjoining the Ashram Road, on the banks of the River Sabarmati, four miles from the town hall.</item>
+        <item>The Dwarkadhish temple, also known as the Jagat Mandir and occasionally spelled Dwarakadheesh, is a Hindu temple dedicated to the god Krishna, who is worshiped here by the name Dwarkadhish, or \'King of Dwarka\'. </item>
+        <item>Rani ki vav is an intricately constructed stepwell situated in the town of Patan in Gujarat, India. It is located on the banks of Saraswati River. Rani ki vav was built as a memorial to an 11th-century AD king Bhimdev I.</item>
+        <item>Lothal is one of the southernmost cities of the ancient Indus valley civilization, located in the Bhāl region of the modern state of Gujarāt and first inhabited c. 3700 BCE.</item>
+        <item>Kankaria Lake, formerly known as Hauj-e-Qutb, is the second largest lake in Ahmedabad, Gujarat, India. It is located in the south-eastern part of the city, in the Maninagar area. </item>
+        <item>Adalaj Stepwell or Rudabai Stepwell is a stepwell located in the village of Adalaj, close to Ahmedabad city and in Gandhinagar district in the Indian state of Gujarat. It was built in 1498 by Rana Veer Singh of the Vaghela dynasty of Dandai Desh.</item>
+        <item>Nageshvara Jyotirlinga is one of the 12 Jyotirlinga shrines mentioned in the Shiva Purana. Nageshvara is believed to be the first such shrine. </item>
+    </string-array>
+    <string-array name="gurt_add">
+        <item>Address: Somnath mandir road, Prabhas Patan, 362268 Phone: 094282 14915</item>
+        <item>Address: Gujarat 362135</item>
+        <item>Country: India</item>
+        <item>Address: Gandhi Smarak Sangrahalaya, Ashram Rd, Ahmedabad, Gujarat 380027 Phone: 079 2755 7277</item>
+        <item>Address: Dwarka, Gujarat 361335 Phone: 02892 234 080</item>
+        <item>Address: Mohan Nagar Socity, Patan, Gujarat 384265 Phone: 02766 291 492</item>
+        <item>Address: Saragwala, Gujarat 382230</item>
+        <item>Location: Ahmedabad, Gujarat</item>
+        <item>Address: Adalaj, Gujarat 382421</item>
+        <item>Address: Daarukavanam, Gujarat 361345</item>
+    </string-array>
+
+    <string-array name="hryn_places">
+        <item>Kingdom of Dreams</item>
+        <item>Pinjore Gardens</item>
+        <item>Surajkund</item>
+        <item>Damdama Lake</item>
+        <item>Appu Ghar</item>
+        <item>Sultanpur National Park</item>
+        <item>Cyber City, Gurgaon</item>
+        <item>Leisure Valley Park</item>
+        <item>Lohagarh Farms</item>
+        <item>Tilyar Lake</item>
+    </string-array>
+    <string-array name="hryn_desc">
+        <item>Visitors find themselves in the middle of live Bollywood-style performances at this theatre venue.</item>
+        <item>Yadavindra Gardens, formerly Pinjore Gardens, is a historic 17th century garden located in Pinjore city of Panchkula district in the Indian state of Haryana.</item>
+        <item>Surajkund is an ancient reservoir of the 10th century located in Faridabad about 8 km from South Delhi.</item>
+        <item>Damdamaa reservoir in Sohna, district in the Indian state of Haryana. It is one of the biggest lakes in Haryana and with an area of 3,000 acres.</item>
+        <item>Appu Ghar was India\'s first and most popular amusement park. It was established in 1984 to commemorate the 1982 Asian Games, inaugurated on 19 November 1984 by the then Prime Minister of India, Shri Rajiv Gandhi. </item>
+        <item>Sultanpur National Park is located at Sultanpur fifteen kilometres from Gurgaon, Haryana and 50 km from Delhi in India. </item>
+        <item>The DLF Cyber City is a [[Business park|Corporate park]] in Gurgaon, India, which houses some of the top IT and Fortune 500 companies. It has been termed a "futuristic commercial hub". </item>
+        <item>Urban park space offering a rose garden, picnic spots, a cafe and a fountain with musical water shows.</item>
+        <item>Family-friendly recreation hub offering organized games, animal rides and crafts, plus food and lodging.</item>
+        <item>Tilyar Lake is one of the major tourist attractions in the Indian state of Haryana. It is 70 kilometers from New Delhi on the Delhi – Fazilka highway and is located close to the city of Rohtak in Haryana. </item>
+    </string-array>
+    <string-array name="hryn_add">
+        <item>Address: Auditorium Complex, Sector 29, Near IFFCO Metro Station, Gurugram, Haryana 122001 Phone: 0124 452 8000</item>
+        <item>Address: Ambala-Shimla Highway, Pinjore, Haryana 134102 Phone: 01733 231 877</item>
+        <item>Address: Lakewood City, Surajkund, Faridabad, Haryana 121010</item>
+        <item>Area: 12.14 km² Surface elevation: 21 m</item>
+        <item>Address: Appu Ghar Marg, Behind Huda City Metro Station, Sector 29, Gurugram, Haryana 122009 Phone: 0124 458 1000</item>
+        <item>Address: Gurgaon Farukh Nagar Road, Sultanpur, Gurugram, Haryana 122006 Phone: 089015 54731</item>
+        <item>Location:Gurgaon</item>
+        <item>Address: 287, NH 8, Sector 29, Gurugram, Haryana 122021</item>
+        <item>Address: Sohna Road, Gairatpur Baas, Near Badshahpur, Gurugram, Haryana 122101 Phone: 082875 55000</item>
+        <item>Address: Tilyar Trail, Rohtak, Haryana 124001</item>
+    </string-array>
+
+    <string-array name="hmp_places">
+        <item>Rohtang Pass</item>
+        <item>Spiti Valley</item>
+        <item>Kalka–Shimla railway</item>
+        <item>Chandra Taal</item>
+        <item>Hidimba Devi Temple</item>
+        <item>Jakhoo</item>
+        <item>Christ Church</item>
+        <item>The Ridge, Shimla</item>
+        <item>Bara-lacha la</item>
+        <item>Kunzum Pass</item>
+    </string-array>
+    <string-array name="hmp_desc">
+        <item>Rohtang Pass, is a high mountain pass on the eastern Pir Panjal Range of the Himalayas around 51 km from Manali. It connects the Kullu Valley with the Lahaul and Spiti Valleys of Himachal Pradesh, India.</item>
+        <item>The Spiti Valley is a cold desert mountain valley located high in the Himalaya mountains in the north-eastern part of the Indian state of Himachal Pradesh. The name "Spiti" means "The Middle Land", i.e. the land between Tibet and India.</item>
+        <item>The Kalka–Shimla railway is a 2 ft 6 in narrow-gauge railway in North India which traverses a mostly-mountainous route from Kalka to Shimla. It is known for dramatic views of the hills and surrounding villages.</item>
+        <item>Chandra Taal, or Chandra Tal is a lake situated in the Spiti part of the Lahul and Spiti district of Himachal Pradesh.</item>
+        <item>Hidimbi Devi Temple, also known variously as the Hadimba Temple, is located in Manāli, a hill station in the State of Himāchal Pradesh in north India.</item>
+        <item>Jakhoo Temple is an ancient temple in Shimla, dedicated to Hindu deity, Hanuman. It is situated on Jakhoo Hill, 2.5 km /1.3 miles east from the Ridge, Shimla at a height of 2,455 m above sea level.</item>
+        <item>Christ Church, Shimla, is the second oldest church in North India, after St John\'s Church in Meerut. It is a parish in the Diocese of Amritsar in the Church of North India.</item>
+        <item>The Ridge road is a large open space, located in the heart of Shimla, the capital city of Himachal Pradesh, India. The Ridge is the hub of all cultural activities of Shimla. </item>
+        <item>Bara-lacha la also known as Bara-lacha Pass, or Bārā Lācha La, is a high mountain pass in Zanskar range, connecting Lahaul district in Himachal Pradesh to Ladakh in Jammu and Kashmir, situated along the Leh–Manali Highway.</item>
+        <item>Kunzum Pass from Manali. It connects the Kullu Valley and Lahaul Valley with the Spiti Valley of Himachal Pradesh, India. It is on the route to Kaza the subdivisional headquarters of Spiti.</item>
+    </string-array>
+    <string-array name="hmp_add">
+        <item>Road: Leh–Manali Highway Location: India Range: Himalayas</item>
+        <item>Country: India</item>
+        <item>Location: Himachal Pradesh, India</item>
+        <item>Location: Middle Himalaya, Spiti Valley, Himachal Pradesh</item>
+        <item>Address: Hadimba Temple Road, Old Manali, Manali, Himachal Pradesh 175131</item>
+        <item>Address: Jakhu Temple Park, Jakhu, Shimla, Himachal Pradesh 171001</item>
+        <item>Address: Mall Rd, Lakkar Bazar, Shimla, Himachal Pradesh 171001 Phone: 0177 265 2953</item>
+        <item>Elevation: 2,205 m</item>
+        <item>Location: India Range: Himalayas</item>
+        <item>Elevation: 4,590 m Range: Himalayas Location: Himachal, India</item>
+    </string-array>
+
+    <string-array name="jk_places">
+        <item>Ladakh</item>
+        <item>Raghunath Temple</item>
+        <item>Chemrey Monastery</item>
+        <item>Kardang Monastery</item>
+        <item>Pangong Tso</item>
+        <item>Khanqah-e-Moula</item>
+        <item>Pathar Masjid</item>
+        <item>Amar Mahal Palace</item>
+        <item>Ladakh</item>
+        <item>Raghunath Temple</item>
+    </string-array>
+    <string-array name="jk_desc">
+        <item>Ladakh is a region in the Indian state of Jammu and Kashmir that currently extends from the Kunlun mountain range to the main Great Himalayas to the south, inhabited by people of Indo-Aryan and Tibetan descent. </item>
+        <item>Raghunath Temple consists of a complex of seven Hindu shrines, each with its own Shikhara. It is one of the largest temple complexes of north India. It is located in Jammu in the Indian state of Jammu and Kashmir. </item>
+        <item>Chemrey Monastery or Chemrey Gompa is a 1664 Buddhist monastery, approximately 40 kilometres east of Leh, Ladakh, northern India. It belongs to the Drugpa monastic order. </item>
+        <item>Kardang Monastery or Gompa is a famous Drukpa Lineage monastery, and is the most important monastery the Lahaul valley, India. The associated village of Kardang was once the capital of Lahaul. </item>
+        <item>Pangong Tso, Tibetan for "high grassland lake", also referred to as Pangong Lake, is an endorheic lake in the Himalayas situated at a height of about 4,350 m. It is 134 km long and extends from India to China.</item>
+        <item>Khanqah-e-Moula, also known as Shah-e-Hamadan Masjid and Khanqah mosque and first historical masjid in kashmir and this place are known as where sayyid Ali Hamadani start the preaching of Islam and people of Kashmir accept Islam, Khanqah-e-Moula of Sayyid Ali Hamadani located in the city of Srinagar in Jammu and Kashmir.</item>
+        <item>Pathar Masjid, known locally as Naev Masheed, is a Mughal era stone mosque located in the old city of Srinagar, in the Indian state of Jammu and Kashmir.</item>
+        <item>The Amar Mahal Palace is a palace in Jammu, in the Indian state of Jammu and Kashmir, India, which has now been converted into a Museum.</item>
+        <item>Ladakh is a region in the Indian state of Jammu and Kashmir that currently extends from the Kunlun mountain range to the main Great Himalayas to the south, inhabited by people of Indo-Aryan and Tibetan descent. </item>
+        <item>Raghunath Temple consists of a complex of seven Hindu shrines, each with its own Shikhara. It is one of the largest temple complexes of north India. It is located in Jammu in the Indian state of Jammu and Kashmir. </item>
+    </string-array>
+    <string-array name="jk_add">
+        <item>Area: 86,904 km² Population: 2.74 lakhs (2011) Largest city: Leh Main cities: Leh, Kargil</item>
+        <item>Address: Fatthu Chaugan, Pakki Dhaki, Old Heritage City, Jammu, Jammu and Kashmir 180001</item>
+        <item>Address: Chemrey, Jammu and Kashmir 194201</item>
+        <item>Address: Himachal Pradesh 175140</item>
+        <item>Location: Ladakh, Jammu and Kashmir, India; Rutog County, Tibet, China</item>
+        <item>Address: New Zaina Kadal Bridge, Shamswari, Srinagar, Jammu and Kashmir 190002</item>
+        <item>Address: Nohata, Srinagar, Jammu and Kashmir 190002</item>
+        <item>Address: Palace Road, Karan Nagar, Jammu Tawi, Jammu, Jammu and Kashmir 180001</item>
+        <item>Area: 86,904 km² Population: 2.74 lakhs (2011) Largest city: Leh Main cities: Leh, Kargil</item>
+        <item>Address: Fatthu Chaugan, Pakki Dhaki, Old Heritage City, Jammu, Jammu and Kashmir 180001</item>
+    </string-array>
+
+    <string-array name="jkh_places">
+        <item>Dassam Falls</item>
+        <item>Chota Nagpur Plateau</item>
+        <item>Baidyanath Temple</item>
+        <item>Betla National Park</item>
+        <item>Dalma Wildlife Sanctuary</item>
+        <item>Tagore Hill</item>
+        <item>Pahari Mandir, Ranchi</item>
+        <item>Chhinnamasta Temple</item>
+        <item>Jubilee Park, Jamshedpur</item>
+        <item>Nakshatra Van</item>
+    </string-array>
+    <string-array name="jkh_desc">
+        <item>The Dassam Falls is a waterfall located near Taimara village in Bundu police station of Ranchi district in the Indian state of Jharkhand.</item>
+        <item>The Chota Nagpur Plateau is a plateau in eastern India, which covers much of Jharkhand state as well as adjacent parts of Odisha, West Bengal, Bihar and Chhattisgarh. </item>
+        <item>Baidyanath Jyotirlinga temple, also known as Baba Baidyanath dham and Baidyanath dham is one of the twelve Jyotirlingas, the most sacred abodes of Shiva. It is located in Deoghar in the Santhal Parganas division of the state of Jharkhand, India. -</item>
+        <item>Betla National Park is a national park located on the Chota Nagpur Plateau in the Latehar district of Jharkhand, India. The park hosts a wide variety of wildlife.</item>
+        <item>Dalma Wildlife Sanctuary is located 10 km from the city of Jamshedpur in the Indian state of Jharkhand. It was inaugurated by Sanjay Gandhi in 1975. It is notable wildlife sanctuary and contains significant population of Indian Elephants.</item>
+        <item>The Tagore Hill also known as Morabadi Hill is situated in Morabadi, Ranchi, Jharkhand. It\'s a place of attraction for jharkhand tourism due to its connection with great poet Rabindra Nath Tagore.</item>
+        <item>Hillside Hindu temple dedicated to Lord Shankara, offering sweeping views of the countryside.</item>
+        <item>Chhinnamasta Temple dedicated to Goddess Chinnamasta is a hindu pilgrimage centre and located in Rajrappa, in Ramgarh district of Jharkhand. The place attracts devotees from all parts of Bihar, Jharkhand and West Bengal. </item>
+        <item>Jubilee Park is a park located in the city of Jamshedpur in India. It is a popular destination for all those who wish to have an outdoor picnic, enjoy some outdoor activities and games or even just to have a relaxing day out with friends and family.</item>
+        <item>Nakshatra Van is a park created by the Jharkhand Forest Department in front of the residence of the governor of Jharkhand in Ranchi, the capital of the Indian state of Jharkhand. </item>
+    </string-array>
+    <string-array name="jkh_add">
+        <item>Address: Ranchi District, Tarub, Jharkhand 835204</item>
+        <item>Cities: Ranchi, Bokaro Steel City, Dhanbad, Jamshedpur</item>
+        <item>Address: Shivganga Muhalla, Pera Gali, Deoghar, Jharkhand 814112 Phone: 094314 18752</item>
+        <item>Address: SH9, Betla, Jharkhand 822111</item>
+        <item>Address: National Highway 33, Jamshedpur, Jharkhand 832401</item>
+        <item>Address: Morhabadi Rd, Van Vrindavan Colony, Morabadi, Ranchi, Jharkhand 834008 Phone: 0651 233 182</item>
+        <item>Address: Pahari Mandir Lane, Ratu Road, Kumhar Toli, Ranchi, Jharkhand 834001</item>
+        <item>Address: Rajrappa Road, Rajrappa, Jharkhand 829110 Phone: 082525 43032</item>
+        <item>Address: Sakchi, Jamshedpur, Jharkhand Phone: 081013 20097</item>
+        <item>Address: Near Rajbhavan, Rajbhawan Road, Ranchi, Jharkhand 834001</item>
+    </string-array>
+
+    <string-array name="kar_places">
+        <item>Mysore Palace</item>
+        <item>Lal Bagh</item>
+        <item>Virupaksha Temple, Hampi</item>
+        <item>Jog Falls</item>
+        <item>Bannerghatta National Park</item>
+        <item>Cubbon Park</item>
+        <item>Abbey Falls</item>
+        <item>Brindavan Gardens</item>
+        <item>Shivanasamudra Falls</item>
+        <item>Chamundeshwari Temple</item>
+    </string-array>
+    <string-array name="kar_desc">
+        <item>Ambavilas Palace, otherwise known as the Mysore Palace, is a historical palace and a royal residence at Mysore in the southern Karnataka state of India. It is the official residence of the Wadiyar dynasty and the seat of the Kingdom of Mysore.</item>
+        <item>Lalbagh or Lalbagh Botanical Gardens, meaning The Red Garden in English, is a well-known botanical garden in southern Bengaluru, India. It has a famous glass house dating from 1889 which hosts two annual flower shows. </item>
+        <item>Virupaksha Temple is located in Hampi 350 km from Bangalore, in the state of Karnataka in southern India. It is part of the Group of Monuments at Hampi, designated as a UNESCO World Heritage Site.</item>
+        <item>Jog Falls, Gerosoppa Falls or Joga Falls is the second highest plunge waterfall in India located near Sagara taluk, Shivamogga district in the state of Karnataka.</item>
+        <item>Bannerghatta National Park, near Bangalore, Karnataka, was founded in 1970 and declared as a national park in 1974. In 2002 a portion of the park, became a biological reserve, the Bannerghatta Biological Park. </item>
+        <item>Cubbon Park, Officially called Sri Chamarajendra Park is a landmark \'lung\' area of the Bengaluru city, located within the heart of the city in the Central Administrative Area.</item>
+        <item>Abbey Falls is in Kodagu, in the Western Ghats in Karnataka. It is located 8 km from the Madikeri, 122 km from Mysore, 144 km from Mangalore and 268 km from Bangalore. The river is part of the early reaches of the river Kaveri. </item>
+        <item>The Brindavan Gardens is a garden located in the Mandya District of the state of Karnataka, India. It lies adjoining the Krishnarajasagara dam which is built across the river Kaveri.</item>
+        <item>Shivanasamudra is a small city in the Mandya District of the state of Karnataka, India. It is situated on the banks of the river Kaveri, which forms here the boundary to the Chamarajanagar District, and is the location of one of the first hydro-electric power stations in Asia, which was set up in 1902.The project was designed by Diwan Sheshadri Iyer.</item>
+        <item>The Chamundeshwari Temple is a Hindu temple located on the top of Chamundi Hills about 13 km from the palace city of Mysore in the state of Karnataka in India. </item>
+    </string-array>
+    <string-array name="kar_add">
+        <item>Address: Sayyaji Rao Rd, Agrahara, Chamrajpura, Mysuru, Karnataka 570001 Phone: 0821 242 1051</item>
+        <item>Address: Mavalli, Bengaluru, Karnataka 560004 Phone: 080 2657 0181</item>
+        <item>Address: Hampi, Karnataka 583239</item>
+        <item>Address: Jog Falls, Karnataka 577435</item>
+        <item>Address: Bannerghatta Road, Bannerghatta, Bengaluru, Karnataka 560083 Phone: 088844 14268</item>
+        <item>Address: Kasturba Road, Behind High Court of Karnataka, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001</item>
+        <item>Address: Abbey falls madkeri, 571252, Hoskeri, Karnataka</item>
+        <item>Address: KRS Dam Road, Mandya District, Mysore, Karnataka 571607 Phone: 080 2657 9231</item>
+        <item>Location: Mandya District, Karnataka, India</item>
+        <item>Address: Chamundi Hill Steps, Chamundi Hill, Mysuru, Karnataka 570010 Phone: 0821 259 0027</item>
+    </string-array>
+
+    <string-array name="ker_places">
+        <item>Thekkady</item>
+        <item>Fort Kochi</item>
+        <item>Periyar</item>
+        <item>Vembanad</item>
+        <item>Eravikulam National Park</item>
+        <item>Athirappilly Falls</item>
+        <item>Padmanabhaswamy Temple</item>
+        <item>Cherai Beach</item>
+        <item>Mattupetty Dam</item>
+        <item>Mattancherry Palace</item>
+    </string-array>
+    <string-array name="ker_desc">
+        <item>Thekkady is the location of the Periyar National Park, which is an important tourist attraction in the Kerala state of India.</item>
+        <item>Fort Kochi is a region in the city of Kochi in the state of Kerala, India. This is part of a handful of water-bound regions toward the south-west of the mainland Kochi, and collectively known as Old Kochi or West Kochi.</item>
+        <item>Periyar is the longest river and the river with the largest discharge potential in the Indian state of Kerala. It is one of the few perennial rivers in the region and provides drinking water for several major towns.</item>
+        <item>Vembanad is the longest lake in India, and the largest lake in the state of Kerala. Spanning several districts in the state of Kerala, it is known as vembanadu Lake in Kottayam Punnamada Lake in Kuttanad, Kochi Lake in Kochi. </item>
+        <item>Eravikulam National Park is a 97 km² national park located along the Western Ghats in the Idukki district of Kerala in India. Situated between 10º05\'N and 10º20\' north, and 77º0\' and 77º10\' east, it is the first national park in Kerala.</item>
+        <item>Athirappilly Falls, is situated in Athirappilly Panchayat, Chalakudy Taluk, Thrissur District of Kerala, India on the Chalakudy River, which originates from the upper reaches of the Western Ghats at the entrance to the Sholayar ranges.It is the largest waterfall in Kerala, which stands tall at 80 feet. </item>
+        <item>Padmanabhaswamy Temple is located in Thiruvananthapuram, Kerala, India. The temple is built in an intricate fusion of the indigenous Kerala style and the Tamil style (kovil) of architecture associated with the temples located in the neighbouring state of Tamil Nadu, featuring high walls, and a 16th-century Gopuram.</item>
+        <item>Cherai Beach is a beach located in Cherai, a suburb of the city Kochi in the state of Kerala, India. One of the most visited beaches in the state, it is situated at around 25 km from downtown Kochi and 20 km from Cochin International Airport.</item>
+        <item>Mattupetty Dam, near Munnar in Idukki District, is a storage Concrete Gravity dam built in the mountains of Kerala, India to conserve water for hydroelectricity.</item>
+        <item>The Mattancherry Palace is a Portuguese palace popularly known as the Dutch Palace, in Mattancherry, Kochi, in the Indian state of Kerala which features Kerala murals depicting portraits and exhibits of the Rajas of Kochi.</item>
+    </string-array>
+    <string-array name="ker_add">
+        <item>Address:Thekkady is located 257 km from Trivandram, near Kerala-Tamil Nadu border.</item>
+        <item>Area code: 0484</item>
+        <item>Cities: Aluva, Neriamangalam, Kalady, Malayattoor</item>
+        <item>Islands: Pathiramanal, Perumbalam, Pallippuram Inflow source: Periyar, Pamba River, Muvattupuzha, Achankovil, Manimala River</item>
+        <item>Address: The Wildlife Warden Munnar PO, Idukki, Kerala, 685612 Phone: 04865 231 587</item>
+        <item>Location: Athirappilly, Chalakudy Taluk, Thrissur District, Kerala, India</item>
+        <item>Address: West Nada, Fort, East Fort, Pazhavangadi, Thiruvananthapuram, Kerala 695023 Phone: 0471 246 4606</item>
+        <item>Nearest city: Kochi</item>
+        <item>Address: Munnar - top station highway, Mattupetty, Kerala 685616 Phone: 1800 425 4747</item>
+        <item>Address: Mattancherry, Kochi, Kerala 682002 Phone: 0484 606 8716</item>
+    </string-array>
+
+    <string-array name="mp_places">
+        <item>Kanha Tiger Reserve</item>
+        <item>Bandhavgarh National Park</item>
+        <item>Gwalior Fort</item>
+        <item>Kandariya Mahadeva Temple</item>
+        <item>Bhimbetka rock shelters</item>
+        <item>Panna National Park</item>
+        <item>Omkareshwar</item>
+        <item>Mahakaleshwar Jyotirlinga</item>
+        <item>Marble Rocks</item>
+        <item>Dhuandhar Falls</item>
+    </string-array>
+    <string-array name="mp_desc">
+        <item>Kanha National Park, also known as Kanha Tiger Reserve, is a vast expanse of grassland and forest in the central Indian state of Madhya Pradesh. Tigers, jackals and wild pigs can be spotted in Kanha Meadows. The elevated plateau of Bamhnidadar is home to birds of prey. Animals often gather at the watering holes of Sondar Tank and Babathenga Tank. The park/’s flora and fauna are documented in the park\'s Kanha Museum.</item>
+        <item>Bandhavgarh National Park is in the central Indian state of Madhya Pradesh. This biodiverse park is known for its large population of royal Bengal tigers, especially in the central Tala zone. Other animals include white tigers, leopards and deer. The mix of tropical forest, Sal trees and grassland is home to scores of bird species, including eagles. To the south are the remains of the ancient Bandhavgarh Fort.</item>
+        <item>Gwalior Fort is a hill fort near Gwalior, Madhya Pradesh, central India. The fort has existed at since the beginning of the 6th century. The fort has been controlled by a number of different rulers in its history. </item>
+        <item>The Kandariya Mahadeva Temple, meaning "the Great God of the Cave", is the largest and most ornate Hindu temple in the medieval temple group found at Khajuraho in Madhya Pradesh, India. </item>
+        <item>The Bhimbetka rock shelters are an archaeological site in central India that spans the prehistoric paleolithic and mesolithic periods, as well as the historic period.</item>
+        <item>Panna National Park is a national park located in Panna and Chhatarpur districts of Madhya Pradesh in India. It has an area of 542.67 km².</item>
+        <item>Omkareshwar is a Hindu temple dedicated to God Shiva. It is one of the 12 revered Jyotirlinga shrines of Shiva. It is on an island called Mandhata or Shivapuri in the Narmada river; the shape of the island is said to be like the Hindu ॐ symbol.</item>
+        <item>Mahakaleshwar Jyotirlinga is a Hindu temple dedicated to Lord Shiva and one of the twelve Jyotirlingams, shrines which are said to be the most sacred abodes of Lord Shiva.</item>
+        <item>The Marble Rocks is an area along the Narmada river in central India near the city of Jabalpur in Jabalpur District of Madhya Pradesh state. The river has carved the soft marble, creating a beautiful gorge of about 8 km in length. </item>
+        <item>The Dhuandhar Falls is a waterfall in Jabalpur district in the Indian state of Madhya Pradesh.</item>
+    </string-array>
+    <string-array name="mp_add">
+        <item>Address: Madhya Pradesh Area: 362.9 mi² Established: 1933 Phone: 076422 50760</item>
+        <item>Address: State Highway 10, Near Petrol Pump, Badhavgarh, District Umaria, Tala, Madhya Pradesh 484661 Established: 1968 Phone: 07627 265 314</item>
+        <item>Address: Gwalior, Madhya Pradesh 474008 Phone: 0751 223 4557</item>
+        <item>Address: Sevagram, Khajuraho, Madhya Pradesh 471606</item>
+        <item>Address: Bhojpur Raisen, Madhya Pradesh 464990</item>
+        <item>Address: NH 75, Chhatarpur, Madhya Pradesh 471405</item>
+        <item>Address: Omkareshwar Mandir Road, Mandhata, Madhya Pradesh 451115 District: Khandwa Phone: 072802 71228 Function: Hindu Temple, Temple</item>
+        <item>Address: Jaisinghpura, Ujjain, Madhya Pradesh 456006 Phone: 0734 255 0563 Function: Hindu Temple, Place of worship</item>
+        <item>Address: Narmada River</item>
+        <item>Address: Jabalpur, Madhya Pradesh 482003</item>
+    </string-array>
+
+    <string-array name="mhr_places">
+        <item>Ellora Caves</item>
+        <item>Gateway of India</item>
+        <item>Ajanta Caves</item>
+        <item>Chhatrapati Shivaji Terminus railway station</item>
+        <item>Elephanta Caves</item>
+        <item>Elephanta Island</item>
+        <item>Chhatrapati Shivaji Maharaj Vastu Sangrahalaya</item>
+        <item>Bibi Ka Maqbara</item>
+        <item>Kailasa temple, Ellora</item>
+        <item>Tadoba Andhari Tiger Reserve</item>
+    </string-array>
+    <string-array name="mhr_desc">
+        <item>Ellora, located in the Aurangabad district of Maharashtra, India, is one of the largest rock-cut monastery-temple cave complexes in the world, and a UNESCO World Heritage Site, featuring Buddhist, Hindu and Jain monuments, and artwork, dating from the 600-1000 CE period. Cave 16, in particular, features the largest single monolithic rock excavation in the world, the Kailasha temple, a chariot shaped monument dedicated to Shiva.</item>
+        <item>The Gateway of India is an arch monument built during the 20th century in Bombay, India. The monument was erected to commemorate the landing of King George V and Queen Mary at Apollo Bunder on their visit to India in 1911.</item>
+        <item>The Ajanta Caves are 29 rock-cut Buddhist cave monuments which date from the 2nd century BCE to about 480 CE in Aurangabad district of Maharashtra state of India.</item>
+        <item>Chhatrapati Shivaji Maharaj Terminus formerly known as Victoria Terminus is a historic railway station and a UNESCO World Heritage Site in Mumbai, Maharashtra, India which serves as the headquarters of the Central Railways.</item>
+        <item>Elephanta Caves are a UNESCO World Heritage Site and a collection of cave temples predominantly dedicated to the Hindu god Shiva.</item>
+        <item>Elephanta Island is one of a number of islands in Mumbai Harbour, east of Mumbai, India</item>
+        <item>The Chhatrapati Shivaji Maharaj Vastu Sangrahalaya, abbreviated CSMVS and formerly named the Prince of Wales Museum of Western India, is the main museum in Mumbai, Maharashtra.</item>
+        <item>The Bibi Ka Maqbara is a tomb located in Aurangabad, Maharashtra, India. It was commissioned by Aurangzeb\'s Son Azam in the memory of his Mother Dilras Banu Begum.</item>
+        <item>The Kailash or Kailasanatha temple is one of the largest rock-cut ancient Hindu temples located in Ellora, Maharashtra, India.</item>
+        <item>Tadoba Andhari Tiger Reserve is located in Chandrapur district of Maharashtra state in India. It is Maharashtra\'s oldest and largest national park.Tadoba-andhari Tiger reserve was created in 1995. The area of the Reserve is 625.40 sq. km</item>
+    </string-array>
+    <string-array name="mhr_add">
+        <item>Address: Ellora Cave Road, Ellora, Aurangabad, Maharashtra 431005 Phone: 0240 234 3169</item>
+        <item>Address: Apollo Bandar, Colaba, Mumbai, Maharashtra 400001</item>
+        <item>Address: Maharashtra 431117</item>
+        <item>Address: Chhatrapati Shivaji Terminus Area, Fort, Mumbai, Maharashtra 400001</item>
+        <item>Address: Gharapuri, Maharashtra 400094</item>
+        <item>Address: Mumbai</item>
+        <item>Address: 159-161, Mahatma Gandhi Road, Kala Ghoda, Fort, Mumbai, Maharashtra 400023 Phone: 022 2284 4484</item>
+        <item>Address: Begumpura, Aurangabad, Maharashtra 431004 Phone: 0240 240 0620</item>
+        <item>Address: Ellora, Maharashtra 431102</item>
+        <item>Address: Chandrapur, Maharashtra 442401</item>
+    </string-array>
+
+    <string-array name="man_places">
+        <item>Shree Govindajee Temple</item>
+        <item>Kangla Fort</item>
+        <item>RKCS Art Gallery And Museum</item>
+        <item>Kombirei Garden</item>
+        <item>Manipur State Museum</item>
+        <item>Khangkhui Mangsor Cave</item>
+        <item>Three Mothers Art Gallery</item>
+        <item>Sendra Park and Resort</item>
+        <item>Matai Garden</item>
+        <item>Samban-Lei Sekpil</item>
+    </string-array>
+    <string-array name="man_desc">
+        <item>Shree Govindajee Temple is the largest Hindu, Vaishnav temple in Imphal city in Manipur. It is located next to the palace of the former rulers of the then Manipur Kingdom. </item>
+        <item>Kangla Fort Overview. Situated close to the banks of the Imphal River, the Kangla Fort or Kangla Palace is a symbol of Manipur\'s glory. The word \'Kangla\' means dry land in Manipuri or Meetei language. ... In 1891, it was taken over by the British army after the Anglo-Manipur War.</item>
+        <item>RKCS Art Gallery is among those few notable places in Imphal, where you get to witness different facets of the state of Manipur through beautiful paintings. Founded in 1990 by the legendary artist Rajkumar Chandrajitsana Singh (RKCS), it has been operating as a full-fledged gallery since 2003.</item>
+        <item>This particular garden is famous in the Imphal East for preserving the old flower called "Kombirei" which is not found easily in other parts of the State . This flower is famous for its beauties and the said flower also extinct in other parts of the state. I do not know the botanical name of the said flower. However it has been known by everybody for its beauty in the State of Manipur</item>
+        <item>Located in the heart of the city, near Polo Ground, the Manipur State Museum is considered as the most prominent museum of the state. Inaugurated on 23rd September 1969 by the then Prime Minister of India - Indira Gandhi, this museum is a prominent tourist attraction.</item>
+        <item>The Khangkhui Cave, locally called as the Khangkhui Mangsor Cave, is essentially a natural limestone cave. Archaeologists have discovered many important artefacts, dating back to the Palaeolithic culture, from this cave.</item>
+        <item>Artist Gurumayum Shyamsunder Sharma, belong to a great family of artists. All his sculptures carved out of a single root incorporating its natural shape into design. The themes of his work derived from nature related to the mythological of Manipur and reflections on its turbulent history. The envisages and epitomize within itself the rich culture, heritage, traditional and history of the state.</item>
+        <item>One of must-visit places in Manipur. Enjoy a breathtaking view of the Loktak Lake from the hill top. Also take a boat trip and tour the lake. Possibly one of the loveliest spots in Manipur. Best visit it during the dry seasons</item>
+        <item>It is a  beautiful garden and also a nice meeting place. One can enjoy the scenic beauty of the place. Nice place for family outing.</item>
+        <item>Sambal-Lei Sekpil is the world\'s tallest topiary. Created by Moirangthem Okendra Kumbi, it is modelled in the shape of a series of open umbrellas and spheres.</item>
+    </string-array>
+    <string-array name="man_add">
+        <item>Address: Wangkhei, Imphal, Manipur 795005</item>
+        <item>Address: Kangla, Imphal, Manipur 795001</item>
+        <item>Address: RKCS colony, Nambul River Road, Keishamthong, Imphal, Manipur 795001</item>
+        <item>Address: Lamlong-Tinsid Rd, Kangla Siphai, Manipur 795005</item>
+        <item>Address: Kangla, Imphal, Manipur 795001 Phone: 0385 242 1794</item>
+        <item>Address: Manipur 795142</item>
+        <item>Address: Thangapat Mapal Palace compound, Thangapat Rd, Thangapat Mapal Thangjam Colony, Wangkhei, Imphal, Manipur 795005</item>
+        <item>Address: Thanga Tongbram Leikai, Ithing, Manipur 795133</item>
+        <item>Address: Matai Mamang Leikai, Luwangsangbam, Imphal, Manipur 795002</item>
+        <item>Address: Highest topiary plant in the world, Imphal, Manipur 795001</item>
+    </string-array>
+
+    <string-array name="meg_places">
+        <item>Nohkalikai Falls</item>
+        <item>Elephant Falls</item>
+        <item>Umiam Lake</item>
+        <item>Khasi Hills</item>
+        <item>Garo Hills</item>
+        <item>Don Bosco Museum</item>
+        <item>Shillong View Point</item>
+        <item>Lady Hydari Park</item>
+        <item>Kynrem Falls</item>
+        <item>Nokrek National Park</item>
+    </string-array>
+    <string-array name="meg_desc">
+        <item>Nohkalikai Falls is the tallest plunge waterfall in India. Its height is 1115 feet. The waterfall is located near Cherrapunji, one of the wettest places on Earth.</item>
+        <item>Dramatic, multi-tiered waterfalls in picturesque surrounds, with an easy walking trail and stairs.</item>
+        <item>Umiam Lake is a reservoir located in the hills 15 km to the North of Shillong in the state of Meghalaya, India. It was created by damming the Umiam river in the early 1960s.</item>
+        <item>The Khasi Hills are part of the Garo-Khasi range in the Indian state of Meghalaya, and is part of the Patkai range and of the Meghalaya subtropical forests ecoregion.</item>
+        <item>The Garo Hills are part of the Garo-Khasi range in Meghalaya, India. They are inhabited mainly by tribal dwellers, the majority of whom are Garo people. It is one of the wettest places in the world.</item>
+        <item>Museum focusing on local indigenous people and culture, with tools, clothing and artifacts on display.</item>
+        <item>Mountaintop overlook with esplanades and observation towers offering sweeping vistas of Shillong City.</item>
+        <item>Scenic, manicured green space with flowering gardens, a water feature and a modest zoo.</item>
+        <item>The Kynrem Falls is located 12 kilometres from Cherrapunji in East Khasi Hills district in the Indian state of Meghalaya. It is situated inside the Thangkharang Park. It is the 7th highest waterfalls in India.</item>
+        <item>Nokrek National Park, the core area of Nokrek Biosphere Reserve, is a national park located approximately 2 km from Tura Peak in West Garo Hills district of Meghalaya, India</item>
+    </string-array>
+    <string-array name="meg_add">
+        <item>Address: Meghalaya 793108</item>
+        <item>Address: Upper Shillong, Shillong, Meghalaya 793009</item>
+        <item>Address: Meghalaya 793122</item>
+        <item>Address: Meghalaya 793120</item>
+        <item>Address: Meghalaya 794001</item>
+        <item>Address: Mawlai Phudmuri, Mawlai Mawdatbaki, Shillong, Meghalaya 793008 Phone: 0364 255 0260</item>
+        <item>Address: Meghalaya 793004</item>
+        <item>Address: Lower, Lachumiere, Shillong, Meghalaya 793001</item>
+        <item>Address: Cherrapunjee, Meghalaya 793108</item>
+        <item>Address: Tura, Meghalaya 794001 Phone: 0364 222 6220</item>
+    </string-array>
+
+    <string-array name="miz_places">
+        <item>Reiek</item>
+        <item>Tam Dil</item>
+        <item>Murlen National Park</item>
+        <item>Phawngpui National Park</item>
+        <item>Lushai Hills</item>
+        <item>Mizoram State Museum</item>
+        <item>Lengteng Wildlife Sanctuary</item>
+        <item>Solomon\'s Temple, Aizawl</item>
+        <item>Serlui B Dam</item>
+        <item>Betlingchhip</item>
+    </string-array>
+    <string-array name="miz_desc">
+        <item>Reiek is a mountain and tourist spot 29 km from Aizawl, Mizoram, India. It rests at an elevation of 1548 metres overlooking Aizawl and offers a view of the surrounding valleys and hills.</item>
+        <item>Tam Dil is a reservoir lake situated 6 km from Saitual, the nearest town, and 64 km from Aizawl, the capital city of Mizoram, India. In Mizo language, the word Ṭam is a contraction of anṭam, which means a mustard plant; and Dil means "lake".</item>
+        <item>Murlen National Park is a national park located in the Champhai district Mizoram in India. The size of the park area is 200 km². The park is situated about 245 km east of Aizawl, and is close to the Chin Hills.</item>
+        <item>Phawngpui National Park or Phawngpui Blue Mountain National Park is one of the two national parks of India in Mizoram, the other and the larger being Murlen National Park.</item>
+        <item>The Lushai Hills are a mountain range in Mizoram and Tripura, India. The range is part of the Patkai range system and its highest point is 2,157 m high Phawngpui, also known as \'Blue Mountain\'.</item>
+        <item>The Mizoram State Museum is in Aizawl, Mizoram, India. It is an ethnographic museum with multipurpose collections on display. There are five galleries: Textile Gallery, Ethnology, History, Anthropology, Natural History, and Archeology Terrace.</item>
+        <item>Lengteng Wildlife Sanctuary is a protected area in Champhai district in eastern Mizoram, northeast India. It is an alpine forest and contains the second highest peak in Mizoram. It is specially a conservation interest on rare species of birds.</item>
+        <item>Solomon\'s Temple in Aizawl, Mizoram is constructed by a non-denominational church, known in Mizo language as Kohhran Thianghlim which is rendered ,\'The Holy Church\' in English. The church was founded by Dr. L.B.</item>
+        <item>Serlui B dam, is an earthfill and gravity dam on the Serlui river 12 km from Bilkhawthlir Village near the Kolasib district in the state of Mizoram in India.</item>
+        <item>Betlingchhip, also known as Betalongchhip, Balinchhip and Thaidawr is the highest peak of the Jampui Hills. It is located in the state of Tripura.</item>
+    </string-array>
+    <string-array name="miz_add">
+        <item>Address: Mizoram 796501</item>
+        <item>Address: Mizoram 796261</item>
+        <item>Address: Khawzawl-Sinzawl-Thanlawn Road, Mizoram 796321 Phone: 0389 233 3475</item>
+        <item>Address: Mizoram 796810</item>
+        <item>Address: Mizoram 796691</item>
+        <item>Address: MacDonald Hill, Zarkawt, Aizawl, Mizoram 796001 Phone: 0389 234 0936</item>
+        <item>Address: Mizoram 796290</item>
+        <item>Address: Chawlhhmun, Aizawl, Mizoram 796009 Phone: 0389 233 0007</item>
+        <item>Address: Mizoram 796081</item>
+        <item>Address: Central Catchment R.F. part, Mizoram 796441</item>
+    </string-array>
+
+    <string-array name="nag_places">
+        <item>Kohima War Cemetery</item>
+        <item>Nagaland State Museum</item>
+        <item>Naga Heritage Village</item>
+        <item>Etiben Memorial Tower</item>
+        <item>Nagaland Zoological Park</item>
+        <item>Green Park</item>
+        <item>Mount Saramati</item>
+        <item>Glory Peak</item>
+        <item>Dimapur Ao Baptist Church</item>
+        <item>Intanki National Park</item>
+    </string-array>
+    <string-array name="nag_desc">
+        <item>Kohima War Cemetery is a memorial dedicated to soldiers of the 2nd British Division of the Allied Forces who died in the Second World War at Kohima, the capital of Nagaland, India, in April 1944.</item>
+        <item>Early artifacts of regional tribes are a prominent feature of this local history hub and art gallery.</item>
+        <item>The nomenclature of KISAMA is derived from two villages namely, Kigwema (KI) and Phesama(SA) and MA which means Village, on whose land the Naga Heritage Village is established and commissioned by the State Government of Nagaland.Situated about 10 kilometers from Kohima, the Naga Heritage Village offers a panorama of natures, cheerful and hospitality of people. The objective of the Heritage Village is to protect and preserve all ethnic cultural heritages by establishing a common management approach and comprehensive data base for perpetuation and maintenance for promotion of tourism. It also aims to uphold and sustain the distinct identity of dialects, customs and traditions of all the ehtnic tribes of Nagland.</item>
+        <item>"Etiben\'s Tower", built in the center of the village of Mopungchuket, refers to the romantic Ao legend of "Etiben and Jina", two lovers who were tragically separated due to their social status.</item>
+        <item>Animals ranging from birds to bears, along with an aquarium, eco-museum and lots of greenery.</item>
+        <item>Community park with lawned areas, a pond and entrance fees on Fridays, Saturdays and Sundays.</item>
+        <item>Saramati is a peak rising above the surrounding peaks at the mountainous border of Nagaland state, India and the Sagaing Region, Burma. It is located near Tuensang town, Tuensang district and Thanamir Village in the Kiphire district of Nagaland.</item>
+        <item>Glory Peak At about 2600 metres above sea level, Glory Peak offers an astonishing and mesmerizing view which one can never forget. It is located in the district of Phek and is one of the highest mountains of Nagaland.</item>
+        <item>Located in the heart of Dimapur is the Dimapur Ao Baptist Church which is a must visit for anyone coming to this place. The church is a congregation of 5000 Ao families in and around Dimapur and has 15000 baptized members making it the largest Baptist Church in India.</item>
+        <item>Intangki National Park is a wildlife park located in Peren district of Nagaland, India. Among the creatures that inhabit the park are the rare hoolock gibbon, golden langur, hornbill, palm civets, black stork, tiger, white-breasted kingfisher, monitor lizard, python and sloth bear. The name "Ntangki" is derived from the Zeme dialect of the Zeliangrong tribe.</item>
+    </string-array>
+    <string-array name="nag_add">
+        <item>Address: Midland Colony, Kohima, Nagaland 797005</item>
+        <item>Address: Upper Bayavü Hill, Kohima, Nagaland 797121 Phone: 094360 08965</item>
+        <item>Address: Nagaland 797005</item>
+        <item>Address: 798615., Mopungchuket, Nagaland</item>
+        <item>Address: Rangapahar, Nagaland 797112</item>
+        <item>Address: 4th Mile, Dimapur, Nagaland 797115</item>
+        <item>Location: Burma–India border</item>
+        <item>Address: Pfutsero, Nagaland 797107</item>
+        <item>Address: NH 36, River Belt Colony, Dimapur, Nagaland 797112</item>
+        <item>Address: Peren, Nagaland 797110</item>
+    </string-array>
+
+    <string-array name="odi_places">
+        <item>Konark Sun Temple</item>
+        <item>Jagannath Temple, Puri</item>
+        <item>Chilika Lake</item>
+        <item>Lingaraja Temple</item>
+        <item>Puri Beach</item>
+        <item>Nandankanan Zoological Park</item>
+        <item>Udayagiri and Khandagiri Caves</item>
+        <item>Simlipal National Park</item>
+        <item>Rajarani Temple</item>
+        <item>Bhitarkanika National Park</item>
+    </string-array>
+    <string-array name="odi_desc">
+        <item>Konark Sun Temple is a 13th-century CE sun temple at Konark about 35 kilometres northeast from Puri on the coastline of Odisha, India. The temple is attributed to king Narasimhadeva I of the Eastern Ganga Dynasty about 1250 CE.</item>
+        <item>The Shree Jagannath Temple of Puri is an important Hindu temple dedicated to Lord Jagannath, a form of lord Vishnu, located on the eastern coast of India, at Puri in the state of Odisha.</item>
+        <item>Chilika Lake is a brackish water lagoon, spread over the Puri, Khurda and Ganjam districts of Odisha state on the east coast of India, at the mouth of the Daya River, flowing into the Bay of Bengal, covering an area of over 1,100 km².</item>
+        <item>Lingaraja Temple is a Hindu temple dedicated to Shiva and is one of the oldest temples in Bhubaneswar, the capital of the East Indian state of Odisha.</item>
+        <item>Puri Beach is a beach in the city of Puri in the state of Odisha, India. It is on the shore of the Bay of Bengal. It is known for being a tourist attraction and a Hindu sacred place.</item>
+        <item>Nandankanan Zoological Park is a 400-hectare zoo and botanical garden in Bhubaneswar, Odisha, India. Established in 1960, it was opened to the public in 1979 and became the first zoo in India to join World Association of Zoos and Aquariums in 2009</item>
+        <item>Udayagiri and Khandagiri Caves, formerly called Katak Caves or Cuttack caves, are partly natural and partly artificial caves of archaeological, historical and religious importance near the city of Bhubaneswar in Odisha, India.</item>
+        <item>Simlipal National Park is a national park and a tiger reserve in the Mayurbhanj district in the Indian state of Odisha.</item>
+        <item>Rajarani Temple is an 11th-century Hindu temple located in Bhubaneswar, the capital city of Odisha, India. The temple is believed to have been known originally as Indreswara</item>
+        <item>Bhitarkanika National Park is a national park located in Kendrapara district of Odisha in eastern India. It spreads over 672 km² and is surrounded by the Bhitarkanika Wildlife Sanctuary.</item>
+    </string-array>
+    <string-array name="odi_add">
+        <item>Address: Konark, Odisha 752111 Phone: 06758 236 821</item>
+        <item>Address: Puri, Odisha 752001 Phone: 06752 222 002</item>
+        <item>Area: 1,165 km² Length: 64.3 km Catchment area: 3,560 km²</item>
+        <item>Address: Rath Road, Bhubaneswar, Odisha 751002 Phone: 090909 09090</item>
+        <item>Location: Odisha</item>
+        <item>Address: Nandankanan Rd, Near Police Station, Barang, Bhubaneswar, Odisha 754005 Phone: 0674 246 6075</item>
+        <item>Address: Khandagiri, Bhubaneswar, Odisha 751030</item>
+        <item>Address: Dist. Mayurbhanj, Bhanjpur, Baripada, Odisha 757002 Phone: 06792 252 593</item>
+        <item>Address: Tankapani Rd, Near BOI ATM, Bhubaneswar, Odisha 751002</item>
+        <item>Address: Paramanandpur, Odisha 754248 Phone: 06729 242 460</item>
+    </string-array>
+
+    <string-array name="pun_places">
+        <item>Golden Temple</item>
+        <item>Jallianwala Bagh</item>
+        <item>Chhatbir Zoo</item>
+        <item>Akal Takht</item>
+        <item>Qila Mubarak</item>
+        <item>Maharaja Ranjit Singh Museum</item>
+        <item>Qila Mubarak, Patiala</item>
+        <item>Takht Sri Damdama Sahib</item>
+        <item>Wonderland</item>
+        <item>Harike Wetland</item>
+    </string-array>
+    <string-array name="pun_desc">
+        <item>Sri Harmandir Sahib, also known as Darbar Sahib, informally referred to as the Golden Temple, is a Gurdwara located in the city of Amritsar, Punjab, India. It is one of the most revered spiritual sites of Sikhism.</item>
+        <item>Jallianwala Bagh (Hindi: जलियांवाला बाग़) is a public garden in Amritsar, and houses a memorial of national importance, established in 1951 by the Government of India, to commemorate the massacre of peaceful celebrators including unarmed women and children by British occupying forces, on the occasion of the Punjabi New Year (Baisakhi)on 13 April 1919 in the Jallianwala Bagh Massacre. </item>
+        <item>Chhatbir Zoo, is a zoological park situated close to Zirakpur, India. The zoo was constructed in the 1970s and is home to a large variety of birds, mammals and reptiles. </item>
+        <item>The Akal Takht, meaning throne of the timeless one, is one of five takhts of the Sikhs. It is located in the Harmandir Sahib complex in Amritsar, Punjab.</item>
+        <item>Qila Mubarak, is a historical monument in the heart of the city of Bathinda in Punjab, India. It is recognized as monument of national importance and maintained by Archaeological Survey of India.</item>
+        <item>Museum dedicated to the Sikh Empire founder displaying armour, paintings and other historical objects.</item>
+        <item>Qila Mubarak is an ancient fortress of Sikh architecture in Patiala, India.</item>
+        <item>The Takht Sri Darbar Sahib Damdama Sahib, one of the five Takhts or Seat of Temporal Authority of Sikhism, Takht Sri Damdama Sahib is in Bathinda in Punjab, India and is the place where Guru Gobind Singh, the tenth Sikh Guru, prepared the full version of the Sikh scriptures called Sri Guru Granth Sahib in 1705. The other four Takhts are the Akal Takht, Takht Sri Keshgarh Sahib, Takht Sri Patna Sahib and Takht Sri Hazur Sahib.</item>
+        <item>Park with family-friendly rides, including a small roller coaster, plus water slides and a wave pool.</item>
+        <item>Harike Wetland also known as "Hari-ke-Pattan", with the Harike Lake in the deeper part of it, is the largest wetland in northern India in the border of Tarn Taran Sahib district and Ferozepur district of the Punjab state in India.</item>
+    </string-array>
+    <string-array name="pun_add">
+        <item>Address: Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006 Phone: 0183 255 3957</item>
+        <item>Address: Golden Temple Rd, Amritsar, Punjab</item>
+        <item>Address: Chattbir Zoo Rd, Sahibzada Ajit Singh Nagar, Chhat, Punjab 140603 Phone: 01762 293 303</item>
+        <item>Address: Harmandir Sahib, Golden Temple Rd, Atta Mandi, Katra Ahluwalia, Amritsar, Punjab 143006 Phone: 0183 254 0820</item>
+        <item>Address: 4144, Qila Road, Old City, Bathinda, Punjab 151001 Phone: 0164 223 8193</item>
+        <item>Address: Ram Bagh, Lawrence Road, Amritsar, Punjab 143001</item>
+        <item>Address: Quila Androon, Chandni Chowk, Adalat Bazar, Patiala, Punjab 147001</item>
+        <item>Address: Talwandi Sabo, Punjab 151302 Phone: 0165 522 0236</item>
+        <item>Address: Nakodar Road, After Wadala Chowk, Jalandhar, Punjab 144001 Phone: 0181 279 1886</item>
+        <item>Location: Punjab</item>
+    </string-array>
+
+    <string-array name="raj_places">
+        <item>Amer Fort</item>
+        <item>Hawa Mahal</item>
+        <item>City Palace, Jaipur</item>
+        <item>Mehrangarh</item>
+        <item>Jantar Mantar</item>
+        <item>Ranthambore National Park</item>
+        <item>Jal Mahal</item>
+        <item>Lake Pichola</item>
+        <item>Umaid Bhawan Palace</item>
+        <item>Jaisalmer Fort</item>
+    </string-array>
+    <string-array name="raj_desc">
+        <item>Amer Fort is a fort located in Amer, Rajasthan, India. Amer is a town with an area of 4 square kilometres located 11 kilometres from Jaipur, the capital of Rajasthan. Located high on a hill, it is the principal tourist attraction in Jaipur.</item>
+        <item>Hawa Mahal is a palace in Jaipur, India. It is constructed of red and pink sandstone. The palace sits on the edge of the City Palace, Jaipur, and extends to the zenana, or women\'s chambers.</item>
+        <item>City Palace, Jaipur, which includes the Chandra Mahal and Mubarak Mahal palaces and other buildings, is a palace complex in Jaipur, the capital of the Rajasthan state, India.</item>
+        <item>Mehrangarh, located in Jodhpur, Rajasthan, is one of the largest forts in India. Built around 1460 by Rao Jodha, the fort is situated 410 feet above the city and is enclosed by imposing thick walls.</item>
+        <item>The Jantar Mantar monument in Jaipur, Rajasthan is a collection of nineteen architectural astronomical instruments built by the Rajput king Sawai Jai Singh II, and completed in 1734.</item>
+        <item>Ranthambore National Park is a vast wildlife reserve near the town of Sawai Madhopur in Rajasthan, northern India. It is a former royal hunting ground and home to tigers, leopards and marsh crocodiles. Its landmarks include the imposing 10th-century Ranthambore Fort, on a hilltop, and the Ganesh Mandir temple. Also in the park, Padam Talao Lake is known for its abundance of water lilies.</item>
+        <item>Jal Mahal is a palace in the middle of the Man Sagar Lake in Jaipur city, the capital of the state of Rajasthan, India. The palace and the lake around it were renovated and enlarged in the 18th century by Maharaja Jai Singh II of Amber.</item>
+        <item>Lake Pichola, situated in Udaipur city in the Indian state of Rajasthan, is an artificial fresh water lake, created in the year 1362 AD, named after the nearby Picholi village.</item>
+        <item>Built between 1928 and 1943, this grand yellow sandstone palace spreads over 26 acres of gardens, making it one of the largest private residences in the world. Featuring Art Deco and Renaissance design, it has 2 swimming pools and pampering treatments at Jiva Grande Spa.</item>
+        <item>Jaisalmer Fort is situated in the city of Jaisalmer, in the Indian state of Rajasthan. It is believed to be one of the very few “living forts” in the world, as nearly one fourth of the old city\'s population still resides within the fort.</item>
+    </string-array>
+    <string-array name="raj_add">
+        <item>Address: Devisinghpura, Amer, Jaipur, Rajasthan 302001 Phone: 0141 253 0293</item>
+        <item>Address: Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002 Phone: 0141 261 8033</item>
+        <item>Address: Jaleb Chowk, Opp Jantar Mantar, Jaipur, Rajasthan 302002 Phone: 0141 408 8888</item>
+        <item>Address: The Fort, Jodhpur, Rajasthan 342006 Phone: 0291 254 8790</item>
+        <item>Address: Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002</item>
+        <item>Address: Rajasthan</item>
+        <item>Address: Amer Road, Jaipur, Rajasthan 302002</item>
+        <item>Location: Rajasthan</item>
+        <item>Address: Circuit House Rd, Cantt Area, Jodhpur, Rajasthan 342006 Phone: 0291 251 0101</item>
+        <item>Address: Fort Road, Near Gopa Chowk, Amar Sagar Pol, Jaisalmer, Rajasthan 345001 Phone: 02992 252 981</item>
+    </string-array>
+
+    <string-array name="skm_places">
+        <item>Lake Tsomgo</item>
+        <item>Yumthang Valley of Flowers</item>
+        <item>Gurudongmar Lake</item>
+        <item>Khangchendzonga National Park</item>
+        <item>Rumtek Monastery</item>
+        <item>Goecha La</item>
+        <item>Pemayangtse Monastery</item>
+        <item>Namgyal Institute of Tibetology</item>
+        <item>Khecheopalri Lake</item>
+        <item>Enchey Monastery</item>
+    </string-array>
+    <string-array name="skm_desc">
+        <item>Tsomgo Lake, also known as Tsongmo Lake or Changu Lake, is a glacial lake in the East Sikkim district of the Indian state of Sikkim, some 40 kilometres from the capital Gangtok. </item>
+        <item>The Yumthang Valley or Sikkim Valley of Flowers sanctuary, is a nature sanctuary with river, hot springs, yaks and grazing pasture on rolling meadows surrounded by the Himalayan mountains in the North Sikkim district of Sikkim state in India. </item>
+        <item>Gurudongmar Lake is one of the highest lakes in the world and in India, located at an altitude of 17,800 ft, in the Indian state of Sikkim. It is considered sacred by Buddhists, Sikhs and Hindus.</item>
+        <item>Khangchendzonga National Park also Kanchenjunga Biosphere Reserve is a National Park and a Biosphere reserve located in Sikkim, India.</item>
+        <item>Rumtek Monastery, also called the Dharmachakra Centre, is a gompa located in the Indian state of Sikkim near the capital Gangtok. </item>
+        <item>Goecha La is a high mountain pass in Sikkim, India in the Himalaya range. The southeast face of Mt. Kanchenjunga, the world\'s third highest mountain, can be viewed from the pass, which is also a base camp for those aspiring to scale the mountain.</item>
+        <item>The Pemayangtse Monastery is a Buddhist monastery in Pemayangtse, near Pelling in the northeastern Indian state of Sikkim, located 110 km west of Gangtok. </item>
+        <item>The foundation stone of the Institute was laid by the 14th Dalai Lama on 10 February 1957 and it was opened officially by the Prime Minister of India Pandit Jawaharlal Nehru on 1 October 1958.</item>
+        <item>Khecheopalri Lake, originally known as Kha-Chot-Palri, is a lake located near Khecheopalri village, 147 kilometres west of Gangtok in the West Sikkim district of the Northeastern Indian state of Sikkim. </item>
+        <item>The Enchey Monastery was established in 1909 above Gangtok, the capital city of Sikkim in the Northeastern Indian state. It belongs to the Nyingma order of Vajrayana Buddhism.</item>
+    </string-array>
+    <string-array name="skm_add">
+        <item>Location: East Sikkim</item>
+        <item>At a height of 11800 feet, Yumthang Valley in the North Sikkim district of Sikkim.</item>
+        <item>Location: North Sikkim, India Cities: Mangan, India</item>
+        <item>Address: Sikkim</item>
+        <item>Address: Tsurphu Labrang Pal Karmae Sangha Dhuche, Dharma Chakra Centre,, Sikkim 737135</item>
+        <item>Elevation: 4,940 m Range: Himalayas Location: India</item>
+        <item>Address: Sikkim 737111 Phone: 03595 250 656</item>
+        <item>Address: Deorali, Gangtok, Sikkim 737101</item>
+        <item>Cities: Yuksom, Gyalshing</item>
+        <item>Address: Gangtok, Sikkim 737117</item>
+    </string-array>
+
+    <string-array name="tn_places">
+        <item>Meenakshi Amman Temple</item>
+        <item>Brihadisvara Temple, Thanjavur</item>
+        <item>Marina Beach</item>
+        <item>Shore Temple</item>
+        <item>Doddabetta</item>
+        <item>Kodaikanal Lake</item>
+        <item>Pancha Rathas</item>
+        <item>Hogenakkal Falls</item>
+        <item>Ramanathaswamy Temple</item>
+        <item>Kapaleeshwarar Temple</item>
+    </string-array>
+    <string-array name="tn_desc">
+        <item>Meenakshi Temple, also referred to as Meenakshi Amman or Minakshi-Sundareshwara Temple, is a historic Hindu temple located on the southern bank of the Vaigai River in the temple city of Madurai, Tamil Nadu, India. </item>
+        <item>Brihadishvara Temple, also called Rajarajesvaram or Peruvudaiyar Kovil, is a Hindu temple dedicated to Shiva located in Thanjavur, Tamil Nadu, India.</item>
+        <item>Marina Beach is a natural urban beach in the city of Chennai (Madras), India, along the Bay of Bengal. The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0 km (3.7 mi), making it the longest natural urban beach in the country and one of the world\'s longest beach ranking with 1.</item>
+        <item>The Shore Temple is so named because it overlooks the shore of the Bay of Bengal. It is a structural temple, built with blocks of granite, dating from the 8th century AD.</item>
+        <item>Doddabetta is the highest mountain in the Nilgiri Hills at 2,637 metres. There is a reserved forest area around the peak. It is 9 km from Ooty, on the Ooty-Kotagiri Road in the Nilgiris district of Tamil Nadu, India.</item>
+        <item>Kodaikanal Lake, also known as Kodai Lake is a manmade lake located in the Kodaikanal city in Dindigul district in Tamil Nadu, India.</item>
+        <item>Pancha Rathas is a monument complex at Mahabalipuram, on the Coromandel Coast of the Bay of Bengal, in the Kancheepuram district of the state of Tamil Nadu, India. Pancha Rathas is an example of monolithic Indian rock-cut architecture.</item>
+        <item>Hogenakkal is a waterfall in South India on the Kaveri river in the Dharmapuri district of the Indian state of Tamil Nadu. It is located 180 km from Bangalore and 46 km from Dharmapuri.</item>
+        <item>Ramanathaswamy Temple is a Hindu temple dedicated to the god Shiva located on Rameswaram island in the state of Tamil Nadu, India. It is also one of the twelve Jyotirlinga temples. </item>
+        <item>Kapaleeshwarar Temple is a Hindu temple dedicated to Shiva located in Mylapore, Chennai in the Indian state of Tamil Nadu. The form of Shiva\'s consort Parvati worshipped at this temple is called Karpagambal is from Tamil.</item>
+    </string-array>
+    <string-array name="tn_add">
+        <item>Address: Madurai Main, Madurai, Tamil Nadu 625001 Phone: 0452 234 4360</item>
+        <item>Address: Membalam Rd, Balaganapathy Nagar, Thanjavur, Tamil Nadu 613007 Phone: 04362 274 476</item>
+        <item>Location: Chennai (Madras), Tamil Nadu, India</item>
+        <item>Address: Mahabalipuram, Tamil Nadu 603104</item>
+        <item>Location: Udagamandalam, Nilgiri District, Tamil Nadu, India</item>
+        <item>Location: Kodaikanal, Dindigul district, Tamil Nadu</item>
+        <item>Address: Mahabalipuram, Tamil Nadu 603104 Phone: 044 2533 3444</item>
+        <item>Address: Dharmapuri-Hogenakkal Road, Dist.Hogenakkal, Hogenakkal, Tamil Nadu 636810 Phone: 044 2533 3850</item>
+        <item>Address: Rameswaram, Tamil Nadu 623526 Phone: 04573 221 223</item>
+        <item>Address: Kapaleesvarar Sannadhi Street, Vinayaka Nagar Colony, Mylapore, Chennai, Tamil Nadu 600004 Phone: 044 2464 1670</item>
+    </string-array>
+
+    <string-array name="tel_places">
+        <item>Charminar</item>
+        <item>Golkonda</item>
+        <item>Ramoji Film City</item>
+        <item>Hussain Sagar</item>
+        <item>Salar Jung Museum</item>
+        <item>Chowmahalla Palace</item>
+        <item>Makkah Masjid, Hyderabad</item>
+        <item>Nehru Zoological Park</item>
+        <item>Birla Mandir, Hyderabad</item>
+        <item>Snow World</item>
+    </string-array>
+    <string-array name="tel_desc">
+        <item>The Charminar, constructed in 1591, is a monument and mosque located in Hyderabad, Telangana, India. The landmark has become a global icon of Hyderabad, listed among the most recognized structures of India.</item>
+        <item>Golkonda, also known as Golconda, Gol konda, or Golla konda, is a citadel and fort in Southern India and was the capital of the medieval sultanate of the Qutb Shahi dynasty, is situated 11 km west of Hyderabad.</item>
+        <item>The Ramoji Film City in India is located in Hyderabad. Spread over 2000 acres, it is the largest integrated film city in Telangana and has been certified by the Guinness World Records as the largest studio complex in the world.</item>
+        <item>Hussain Sagar is a heart shaped lake in Hyderabad built by Ibrahim Quli Qutb Shah, and named after Hussain Shah Wali. It is spread across an area of 5.7 square kilometers and is fed by River Musi.</item>
+        <item>The Salar Jung Museum is an art museum located at Darushifa, on the southern bank of the Musi River in the city of Hyderabad, Telangana, India. It is one of the three National Museums of India.</item>
+        <item>Chowmahalla Palace or Chowmahallatuu, is a palace of the Nizams of Hyderabad state. It was the seat of the Asaf Jahi dynasty and was the official residence of the Nizams of Hyderabad while they ruled their state</item>
+        <item>Mecca Masjid, is one of the oldest mosques in Hyderabad, Telangana in India, and it is one of the largest masajids in India.</item>
+        <item>Nehru Zoological Park is a zoo located near Mir Alam Tank in Hyderabad, Telangana, India. It is one of the most visited destinations in Hyderabad. Zoo hours vary by season, and the zoo is closed on Mondays.</item>
+        <item>Birla Mandir is a Hindu temple, built on a 280 feet high hillock called Naubath Pahad on a 13 acres plot. The construction took 10 years and was opened in 1976 by Swami Ranganathananda of Ramakrishna Mission.</item>
+        <item>Snow World is an amusement park located in Hyderabad, Telangana, India within an area of about 2 acres. Located beside Indira Park and along the Hussain Sagar lake, the park was inaugurated on 28 January 2004. </item>
+    </string-array>
+    <string-array name="tel_add">
+        <item>Address: Char Kaman, Ghansi Bazaar, Hyderabad, Telangana 500002 Phone: 040 6674 5986</item>
+        <item>Address: Khair Complex, Ibrahim Bagh, Hyderabad, Telangana 500008 Phone: 040 2351 2401</item>
+        <item>Address: Ramoji Film City Main Road, Anaspur Village, Hayathnagar Mandal, Hyderabad, Telangana 501512 Phone: 1800 4250 9999</item>
+        <item>Location: Hyderabad, Telangana, India</item>
+        <item>Address: Salar Jung Road, Near Minar Function Hall, Darulshifa, Hyderabad, Telangana 500002 Phone: 040 2457 6443</item>
+        <item>Address: 20-4-236, Motigalli, Khilwat, Hyderabad, Telangana 500002 Phone: 040 2452 2032</item>
+        <item>Address: Near Charminar, Ghansi Bazaar, Hyderabad, Telangana 500002 Phone: 040 6674 5986</item>
+        <item>Address: NH 44, Bahadurpura, Hyderabad, Telangana 500064 Phone: 040 2447 7355</item>
+        <item>Address: Hill Fort Rd, Ambedkar Colony, Khairatabad, Hyderabad, Telangana 500004 Phone: 040 2345 0165</item>
+        <item>Address: Survey No. 54, Lower Tank Bund Rd, Lower Tank Bund, Kavadiguda, Hyderabad, Telangana 500080 Phone: 040 2970 2978</item>
+    </string-array>
+
+    <string-array name="trp_places">
+        <item>Ujjayanta Palace</item>
+        <item>Neermahal</item>
+        <item>Unakoti</item>
+        <item>Rudrasagar Lake</item>
+        <item>Sipahijola Wildlife Sanctuary</item>
+        <item>Tripura Sundari Temple</item>
+        <item>Trishna Wildlife Sanctuary</item>
+        <item>Tripura Government Museum</item>
+        <item>Gumti Wildlife Sanctuary</item>
+        <item>Rowa Wildlife Sanctuary</item>
+    </string-array>
+    <string-array name="trp_desc">
+        <item>The Ujjayanta Palace is a museum and the former palace of the Kingdom of Tripura situated in Agartala, which is now the capital of the Indian state of Tripura.</item>
+        <item>Neermahal is a former royal palace built by King Bir Bikram Kishore Manikya Bahadur of the erstwhile Kingdom of Tripura, India in the middle of the lake Rudrasagar in 1930 and was completed by 1938.</item>
+        <item>Unakoti hill, literally meaning one less a koti in Bengali, hosts an ancient Shaivite place of worship with huge rock reliefs celebrating Shiva</item>
+        <item>The Government of India\'s Ministry of Environment and Forest has identified Rudrasagar as one of the wetlands of National Importance for conservation and sustainable use based on its bio-diversity and socio economic importance. Secretary General, convention on wetlands, Ramsar site has declared Rudrasagar Lake as wetland of international importance and it has been included in the list of wetlands of International Importance. This certificate has been communicated by ministry of environment and forest, govt. of India on 29-02-2007.</item>
+        <item>Sepahijala Wildlife Sanctuary is a wildlife sanctuary in Tripura, India of some 18.53 square kilometres, about 25 kilometres from the city centre, located in Bishalgarh. </item>
+        <item>Tripura Sundari Temple is situated in the ancient Udaipur, about 55 km from Agartala, Tripura believed to be one of the holiest Hindu shrines in this part of the country.</item>
+        <item>Trishna Wildlife Sanctuary is a Wildlife Sanctuary in Tripura, India. It covers an area of about 163.08 square kilometres. This sanctuary is situated in South Tripura District.</item>
+        <item>The Tripura Government Museum or the Tripura State Museum, Ujjayanta Palace, Agartala in the Indian state of Tripura is housed in the Ujjayanta Palace, former royal palace of the Tripura.</item>
+        <item>Gumti Wildlife Sanctuary is a Wildlife Sanctuary in Tripura, India. It covers an area of about 389.54 square kilometres.</item>
+        <item>Rowa Wildlife Sanctuary is a Wildlife Sanctuary in Tripura, India. It covers an area of only 0.86 square kilometres.</item>
+    </string-array>
+    <string-array name="trp_add">
+        <item>Address: Palace Compound, Agartala, Tripura</item>
+        <item>Address: Rudijala, Tripura 799115</item>
+        <item>Address: Kailashahar, Tripura 799254</item>
+        <item>Location: Tripura</item>
+        <item>Address: Uttar Charilam, Tripura 799102 Phone: 087943 87106</item>
+        <item>Address: Fulkumari, Udaipur, Tripura 799013 Phone: 087300 16908</item>
+        <item>Address: RAJNAGAR, BELONIA, Belonia - Bhabanipur Rd, Joychandrapur, Tripura 799150 Phone: 03823 267 340</item>
+        <item>Address: Palace Compound, Agartala, Tripura 799001</item>
+        <item>Address: Mukchhari, Tripura 799104</item>
+        <item>Address: Roa, Tripura 799260</item>
+    </string-array>
+
+    <string-array name="uk_places">
+        <item>Valley of Flowers National Park</item>
+        <item>Nanda Devi</item>
+        <item>Tungnath</item>
+        <item>Rajaji National Park</item>
+        <item>Badrinath Temple</item>
+        <item>Binsar Wildlife Sanctuary</item>
+        <item>Nainital Lake</item>
+        <item>Har Ki Pauri</item>
+        <item>Kedarnath Temple</item>
+        <item>Roopkund</item>
+    </string-array>
+    <string-array name="uk_desc">
+        <item>Valley of Flowers National Park is an Indian national park, located in West Himalaya, in the state of Uttarakhand and is known for its meadows of endemic alpine flowers and the variety of flora. </item>
+        <item>Nanda Devi is the second highest mountain in India, and the highest located entirely within the country. It is the 23rd-highest peak in the world</item>
+        <item>Tungnath is the highest Shiva temple in the world and is the highest of the five Panch Kedar temples located in the mountain range of Tunganath in Rudraprayag district, in the Indian state of Uttarakhand.</item>
+        <item>Rajaji National Park is an Indian national park and tiger reserve that encompasses the Shivaliks, near the foothills of the Himalayas. The park is spread over 820 km²., and three districts of Uttarakhand: Saharanpur, Dehradun and Pauri Garhwal.</item>
+        <item>Badrinath or Badrinarayan Temple is a Hindu temple dedicated to Vishnu which is situated in the town of Badrinath in Uttarakhand, India. The temple and town form one of the four Char Dham and Chota Char Dham pilgrimage sites.</item>
+        <item>Binsar Wildlife Sanctuary is located in the Himalayas on top of the Jhandi Dhar hills. It is about 33 km north of the Almora town in Uttarakhand, India.</item>
+        <item>Nainital Lake, a natural freshwater body, situated amidst the township of Nainital in Uttarakhand State of India, tectonic in origin, is kidney shaped or crescent shaped and has an outfall at the southeastern end.</item>
+        <item>Har Ki Pauri is a famous ghat on the banks of the Ganges in Haridwar in the Indian state of Uttarakhand. This revered place is the major landmark of the holy city of Haridwar.</item>
+        <item>Kēdārnāth Mandir is a Hindu temple dedicated to Lord Shiva. It is on the Garhwal Himalayan range near the Mandakini river in Kedarnath, Uttarakhand in India.</item>
+        <item>Roopkund is a high altitude glacial lake in the Uttarakhand state of India. It lies in the lap of Trishul massif and is famous for the hundreds of human skeletons found at the edge of the lake.</item>
+    </string-array>
+    <string-array name="uk_add">
+        <item>Address: Uttarakhand 246443 Phone: 01389 222 179</item>
+        <item>Location: Chamoli, Uttarakhand, India</item>
+        <item>Address: Rudraprayag, Uttarakhand 246419</item>
+        <item>Address: 5/1, Ansari Road, Mohand Range, Dehradun, Uttarakhand 248001 Phone: 075007 14334</item>
+        <item>Address: Badrinath Temple Road, Badrinath, Uttarakhand 246422 Phone: 0135 274 1600</item>
+        <item>Address: 14 B, Second Floor, Niho Mall Near Delhi Public School, Ahinsa Khand 2, Indirapuram, New Delhi, 201014 Phone: 0120 435 5020</item>
+        <item>Location: Uttarakhand</item>
+        <item>Address: Near City Control Room, Haridwar, Uttarakhand 249401 Phone: 080540 84635</item>
+        <item>Address: Kedarnath, Uttarakhand 246445 Phone: 01389 222 083</item>
+        <item>Address: Uttarakhand</item>
+    </string-array>
+
+    <string-array name="up_places">
+        <item>Taj Mahal</item>
+        <item>Agra Fort</item>
+        <item>Tomb of I\'timād-ud-Daulah</item>
+        <item>Akbar\'s tomb</item>
+        <item>Kashi Vishwanath Temple</item>
+        <item>Mehtab Bagh</item>
+        <item>Binsar Wildlife Sanctuary</item>
+        <item>Dashashwamedh Ghat</item>
+        <item>Buland Darwaza</item>
+        <item>Manikarnika Ghat</item>
+    </string-array>
+    <string-array name="up_desc">
+        <item>The Taj Mahal is an ivory-white marble mausoleum on the south bank of the Yamuna river in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor, Shah Jahan, to house the tomb of his favourite wife, Mumtaz Mahal.</item>
+        <item>Agra Fort is a historical fort in the city of Agra in India. It was the main residence of the emperors of the Mughal Dynasty till 1638, when the capital was shifted from Agra to Delhi. The Agra fort is a UNESCO World Heritage site.</item>
+        <item>Tomb of I\'timad-ud-Daulah is a Mughal mausoleum in the city of Agra in the Indian state of Uttar Pradesh. Often described as a "jewel box", sometimes called the "Baby Taj", the tomb of I\'timad-ud-Daulah is often regarded as a draft of the Taj Mahal</item>
+        <item>Akbar\'s tomb is the tomb of the Mughal emperor, Akbar and an important Mughal architectural masterpiece. It was built in 1604–1613 and is situated in 119 acres of grounds in Sikandra, a suburb of Agra, Uttar Pradesh, India.</item>
+        <item>Kashi Vishvanath Temple is one of the most famous Hindu temples dedicated to Lord Shiva. It is located in Varanasi, Uttar Pradesh, India.</item>
+        <item>Mehtab Bagh is a charbagh complex in Agra, North India. It lies north of the Taj Mahal complex and the Agra Fort on the opposite side of the Yamuna River, in the flood plains.</item>
+        <item>Binsar Wildlife Sanctuary is located in the Himalayas on top of the Jhandi Dhar hills. It is about 33 km north of the Almora town in Uttarakhand, India.</item>
+        <item>Dashashwamedh Ghat is the main ghat in Varanasi on the Ganga River. It is located close to Vishwanath Temple and is probably the most spectacular ghat.</item>
+        <item>Buland Darwaza, or the "Gate of victory", was built in 1575 A.D. by Akbar to commemorate his victory over Gujarat. It is the main entrance to the palace at Fatehpur Sikri, a which is 43 km from Agra, India.</item>
+        <item>Manikarnika Ghat is one of the holiest among the sacred riverfronts, alongside the river Ganga. It is believed that a dead human\'s soul finds salvation, when cremated here.</item>
+    </string-array>
+    <string-array name="up_add">
+        <item>Address: Dharmapuri, Forest Colony, Tajganj, Agra, Uttar Pradesh 282001</item>
+        <item>Address: Agra Fort, Rakabganj, Agra, Uttar Pradesh 282003 Phone: 0562 222 6431</item>
+        <item>Address: Moti Bagh, Agra, Uttar Pradesh 282006 Phone: 0562 228 0030</item>
+        <item>Address: Tomb of Akbar The Great Area, Sikandra, Agra, Uttar Pradesh 282007 Phone: 0562 264 1230</item>
+        <item>Address: Lahori Tola, Varanasi, Uttar Pradesh 221001 Phone: 0542 239 2629</item>
+        <item>Address: Near Taj Mahal, Dharmapuri, Forest Colony, Nagla Devjit, Agra, Uttar Pradesh 282001</item>
+        <item>Address: 14 B, Second Floor, Niho Mall Near Delhi Public School, Ahinsa Khand 2, Indirapuram, New Delhi, 201014 Phone: 0120 435 5020</item>
+        <item>Address: Dashashwamedh Ghat Rd, Ghats of varanasi, Godowlia, Varanasi, Uttar Pradesh 221001 Phone: 087072 22624</item>
+        <item>Address: Fatehpur sikri Fort, Dadupura, Fatehpur Sikri, Uttar Pradesh 283110</item>
+        <item>Address: Near Manikarnika Ghat, Garawasi Tola, Varanasi, Uttar Pradesh 221001 Phone: 080523 04536</item>
+    </string-array>
+
+    <string-array name="wb_places">
+        <item>Victoria Memorial, Kolkata</item>
+        <item>Tiger Hill, Darjeeling</item>
+        <item>Howrah Bridge</item>
+        <item>Dakshineswar Kali Temple</item>
+        <item>Gorumara National Park</item>
+        <item>Indian Museum, Kolkata</item>
+        <item>Kalighat Kali Temple</item>
+        <item>Belur Math</item>
+        <item>Sundarbans National Park</item>
+        <item>Padmaja Naidu Himalayan Zoological Park</item>
+    </string-array>
+    <string-array name="wb_desc">
+        <item>The Victoria Memorial is a large marble building in Kolkata, West Bengal, India, which was built between 1906 and 1921.</item>
+        <item>Tiger Hill is located in Darjeeling, in the Indian State of West Bengal, and is the summit of Ghoom, the highest railway station in the Darjeeling Himalayan Railway – a UNESCO World Heritage Site.</item>
+        <item>Howrah Bridge is a bridge with a suspended span over the Hooghly River in West Bengal, India. Commissioned in 1943, the bridge was originally named the New Howrah Bridge, because it replaced a pontoon bridge at the same location linking the two cities of Howrah and Kolkata (Calcutta).</item>
+        <item>Dakshineswar Kali Temple is a Hindu temple located in Dakshineswar near Kolkata. Situated on the eastern bank of the Hooghly River, the presiding deity of the temple is Bhavatarini, an aspect of Kali, meaning, \'She who liberates Her devotees from the ocean of existence i.e. Saṃsāra\'.</item>
+        <item>Gorumara National Park is a National Park in northern West Bengal, India. Located in the Dooars region of the Himalayan foothills, it is a medium-sized park with grasslands and forests. It is primarily known for its population of Indian rhinoceros.</item>
+        <item>The Indian Museum in Kolkata, also referred to as the Imperial Museum at Calcutta in British India era texts, is the largest and oldest museum in India and has rare collections of antiques, armour and ornaments, fossils, skeletons, mummies, and Mughal paintings. It was founded by the Asiatic Society of Bengal in Kolkata (Calcutta), India, in 1814. </item>
+        <item>Kalighat Kali Temple is a Hindu temple in West Bengal, India dedicated to the Hindu goddess Kali. It is one of the 51 Shakti Peethas. Kalighat was a Ghat sacred to Kali on the old course of the Hooghly river in the city of Calcutta.</item>
+        <item>Beluṛ Maṭh is the headquarters of the Ramakrishna Math and Mission, founded by Swami Vivekananda, a chief disciple of Ramakrishna Paramahamsa.</item>
+        <item>Sundarbans National Park is a large coastal mangrove forest, shared by India and Bangladesh. The area is home to the Royal Bengal tiger, plus other endangered species such as the estuarine crocodile and Ganges River dolphin. Boats from Khulna city travel south along the river to a quiet mangrove beach at Kotka. Here, a watchtower offers views of the forest and its birds and animals.</item>
+        <item>Padmaja Naidu Himalayan Zoological Park is a 67.56-acre zoo in the town of Darjeeling in the Indian state of West Bengal. The zoo was opened in 1958, and an average elevation of 7,000 feet, is the largest high altitude zoo in India.</item>
+    </string-array>
+    <string-array name="wb_add">
+        <item>Address: Victoria Memorial Hall, 1, Queens Way, Kolkata, West Bengal 700071</item>
+        <item>Loction: West bengal</item>
+        <item>Address: Howrah, West Bengal 700001 Phone: 033 2259 0264</item>
+        <item>Address: Dakshineswar, Kolkata, West Bengal 700076 Phone: 033 2564 5222</item>
+        <item>Address: Jalpaiguri, West Bengal 735101</item>
+        <item>Address: 27, Jawaharlal Nehru Rd, Colootola, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700016</item>
+        <item>Address: Anami Sangha, Kalighat, Kolkata, West Bengal 700026 Phone: 033 2243 6440</item>
+        <item>Address: Belur, Howrah, West Bengal 711202 Phone: 033 2654 1144</item>
+        <item>Address: Dayapur, Gosaba, West Bengal 743370 Phone: 090079 95888</item>
+        <item>Address: Darjeeling - Jorethang Road, Jawahar Parbat, Darjeeling, West Bengal 734101 Phone: 0354 225 3709</item>
+    </string-array>
+
+    <string-array name="del_places">
+        <item>The Red Fort</item>
+        <item>Qutb Minar</item>
+        <item>India Gate</item>
+        <item>Jama Masjid, Delhi</item>
+        <item>Humayun\'s Tomb</item>
+        <item>Lotus Temple</item>
+        <item>Akshardham</item>
+        <item>Rashtrapati Bhavan</item>
+        <item>Qutb Minar complex</item>
+        <item>Purana Qila</item>
+    </string-array>
+    <string-array name="del_desc">
+        <item>Red Fort is a historic fort in the city of Delhi in India. It was the main residence of the emperors of the Mughal dynasty for nearly 200 years, until 1856. It is located in the center of Delhi and houses a number of museums. </item>
+        <item>The Qutub Minar, also spelled as Qutab Minar, or Qutb Minar, is the tallest minaret in the world made up of bricks.</item>
+        <item>The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the "ceremonial axis" of New Delhi, India, formerly called Kingsway.</item>
+        <item>The Masjid-i Jahān-Numā, commonly known as the Jama Masjid devnagrii: जामा मस्जिद, Urdu: جامع مسجد of Delhi, is one of the largest mosques in India. </item>
+        <item>Humayun\'s tomb (Maqbaera e Humayun) is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress Bega Begum (also known as Haji Begum), in 1569-70, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her.</item>
+        <item>The Lotus Temple, located in Delhi, India, is a Bahá\'í House of Worship that was dedicated in December 1986, costing $10 million. Notable for its flowerlike shape, it has become a prominent attraction in the city.</item>
+        <item>Akshardham or Swaminarayan Akshardham complex is a Hindu temple, and a spiritual-cultural campus in Delhi, India.</item>
+        <item>The Rashtrapati Bhavan is the official home of the president located at the Western end of Rajpath in New Delhi, India.</item>
+        <item>The Qutb complex is a collection of monuments and buildings from the Delhi Sultanate at Mehrauli in Delhi in India, which were built on the ruins of Lal Kot, which consisted of 27 Hindu and Jain temples and Qila-Rai-Pithora.</item>
+        <item>Purana Qila\' is one of the oldest forts in Delhi. The present citadel at Purana Qila was believed to have been built under Humayun and Afghan Sher Shah Suri.</item>
+    </string-array>
+    <string-array name="del_add">
+        <item>Address: Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006 Phone: 011 2327 7705</item>
+        <item>Address: Mehrauli, New Delhi, Delhi 110030 Phone: 011 2469 8431</item>
+        <item>Address: Rajpath Marg, India Gate, New Delhi, Delhi 110001Phone: 011 2336 5358</item>
+        <item>Address: Meena Bazaar, Jama Masjid, Chandni Chowk, New Delhi, Delhi 110006</item>
+        <item>Address: Mathura Road, Opposite Dargah Nizamuddin, New Delhi, Delhi 110013</item>
+        <item>Address: Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019</item>
+        <item>Address: Noida Mor, Pandav Nagar, New Delhi, Delhi 110092</item>
+        <item>Address: Rashtrapati Bhawan, President\'s Estate, New Delhi, Delhi 110004</item>
+        <item>Address: Seth Sarai, Mehrauli, New Delhi, Delhi 110030</item>
+        <item>Address: Mathura Rd, Near Delhi Zoo, New Delhi, Delhi 110003</item>
+    </string-array>
+
+
+    <string-array name="jan_places">
+        <item>Rajasthan</item>
+        <item>Kerala</item>
+        <item>Shimla</item>
+        <item>Goa</item>
+        <item>Delhi</item>
+    </string-array>
+    <string-array name="jan_desc">
+        <item>Rajasthan, the royal state of India, experiences a huge footfall in winter months. Though the state, alike North Indian States, experiences cold climatic conditions, but are pleasant. The state is dotted with magnificent forts, beautiful palaces and various architectural splendors which serve as a living evidence of the royal dynasties. Jaisalmer, Jaipur, Jodhpur and Udaipur are some of the famed cities and worth a visit. Do not miss to witness folk dance and cultural programs.</item>
+        <item>If you are a nature lover and want to enjoy a relaxed vacation in India, Kerala is the ideal destination in winter. The state experiences moderate climate throughout the year, thus, is a sought-after travel destination at any point of the year. Beautiful palm fenced backwaters are treat to watch. Cruising in backwaters and an overnight stay in a houseboat is a lifetime experience. Do not miss to enjoy ancient Ayurveda massage and therapy, and exclusive spa sessions to enjoy a relaxed and rejuvenated vacation in Kerala.</item>
+        <item>If you want a romantic getaway in India, hill station Shimla is best for you! Praised for its magical element of romanticism. Snow further acts as an add-on to the romantic trip. Proper accessibility, snow-capped mountains and colonial influence also makes it a sought-after travel destination amidst foreigners. The destination is a great option to enjoy a skiing holiday in India and add the element of thrill.</item>
+        <item>If you want to indulge into the pure mood of festivity, Goa is the destination for you. During winters, you can experience liveliness all around. During daytime, the beaches are the hotspot destinations to enjoy the winter sun, on the other hand, the nights are colorful with happening parties all around. As the entire state is in festive mood due to Christmas and New Year, you might face difficulty in finding hotels in Goa for accommodations. Thus, make sure you make an advance booking to avoid last minute disheartenment.</item>
+        <item>Delhi, apart from being popular for its rich cultural heritage and vividness, is also popular for its winter. Early morning, when the entire city is converted by fog, do not miss to enjoy sumptuous and hot street food. The chilly air enhances the taste of the street food. Carry enough of warm clothes to protect yourself from the chilly cold. Delhi is a great place to enjoy a musical charm of winter.</item>
+    </string-array>
+
+    <string-array name="feb_places">
+        <item>Kaziranga National Park, Assam</item>
+        <item> Nasik, Maharashtra</item>
+        <item>Agartala, Tripura</item>
+        <item>Jaisalmer, Rajasthan</item>
+        <item>Agra, Uttar Pradesh</item>
+    </string-array>
+    <string-array name="feb_desc">
+        <item>Kaziranga National Park, also included in the UNESCO World Heritage Sites is home to two-thirds of worlds one-horned rhinoceros population in the world. Wildlife enthusiasts also find a large number of tigers, elephants, wild water buffalo, and swamp deer. Situated in Assam, Kaziranga lies on the edge of the Eastern Himalayas biodiversity hot spot. Kaziranga is a super amazing place to visit in India in February as it is not too cold and the rains are also not a problem at this time of the year. </item>
+        <item>An almost essential for February, this one has got on its itinerary the Sula Fest! So there is wine, music, dancing, delicacies, shopping, camping, VERO MODA launching their Spring Summer Collection and absolutely no reason why you should miss this.</item>
+        <item>Agartala is a perfect tourist destination for those looking either for cultural diversity or natural beauty or both. Once home to Manikya kings, Agartala boasts of some architectural masterpieces including Nir Mahal, Ujjayanta Palace and Kunjaban Palace. Jampui hills, Sepahijala and Gondacherra wildlife sanctuary are a nature lovers paradise.This most developed city in the state, it is still a far cry from the metros and hence maintains the best of both worlds. Agartala should be visited in the month of February as this is the last month before it starts moving towards a temperature you\’d rather avoid travelling in.</item>
+        <item>With the summer yet to come to the country, Jaisalmer is one of the places to visit in India in February. Jaisalmer being the closest city, is a major tourist spot popular among couples, adventure seekers , and desert safari enthusiasts. This city, located close to Pakistan border is famous for Rajputana havelis and Jaisalmer fort also known as Sonal Quila. Sandstone architecture gives the city its golden hue and therefore the name, Golden City. And that\’s not even it – this February, Jaisalmer will be hosting the Jaisalmer Desert Festival, celebrating every possible tint of the cultural festivity that surrounds Rajasthan.</item>
+        <item>Though this one remains a staple for most tourist circuits that cover the best of India, there is another reason it\’s on the list this February. Taj Mahotsav that takes place between 18th and 27th of February, this time, is a 10-day celebration of art, crafts, cuisines, dance and music by the eastern gate of the wonder itself, Taj Mahal.</item>
+    </string-array>
+
+    <string-array name="mar_places">
+        <item>Havelock Island, Andaman and Nicobar Islands</item>
+        <item>Ooty, Tamil Nadu</item>
+        <item>Ranthambore, Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Coorg, Karnataka</item>
+    </string-array>
+    <string-array name="mar_desc">
+        <item>One of the most beautiful and serene islands in the Andaman cluster, Havelock is a paradise for those looking for a serene escape. A popular destination, one of the most talked about part of Havelock, is beach number 7, also known as the Radha Nagar Beach. Awarded in 2004 as the \‘Best Beach in Asia\’, by Time, the swimming elephants are the most popular attraction here. With temperature not hovering over 20 degrees and cool ocean breezes flowing throughout the day, the beautifully made villas and picturesque houses are the cherries on top.</item>
+        <item>If a lost world colonial charm is your idea of a dream vacation, look no farther than Ooty. Complete with a toy train ride to the quaint little hill station. All English everything, from the colonial style bijou, fenced flower gardens, evergreen hills and the thatched roof churches of course. The sleepy hamlet has a memorable stupor, and a sense of timelessness, with lush botanical gardens, lakes, tea plantations and waterfalls. When here, don\’t forget to check out popular spots like Tiger Hill, Ooty Lake and the Dodabetta Peak.</item>
+        <item>Although the appropriate travel time as suggested by frequents to Ranthambore is September to February, March is the month for wildlife buffs to visit the place. The most popular destination here is the Ranthambore National Park and the Ranthambore Fort. The Park, that started as a tiger preservation site for Project Tiger in 1973, has now become the biggest and most populated tiger reserve in the country. The onset of summer is when the forest is at its barest and tiger spotting is the easiest. Located within the park is the Ranthambore Fort, which is one of the six forts in Rajasthan to be a part of the World Heritage Sites. Home to the most elusive leopards and the fishing cat, the Ganesh Temple is thronged by thousands of pilgrims during the annual Ganesh Festival. For those who can\’t make it to the festival, any Wednesday is perfect to witness the deity dressed in decadence and worshipped in finery by the locals.</item>
+        <item>A gem in the north-east, Sikkim is the perfect place to visit in March in India for those looking forward to getting away from their harsh metropolitans. Ravangla, Sikkim’s only tea estate, is flanked by the Kunchendzonga peak, is one of the hidden treasures of the valley, as are the 200 species of orchids and rhododendrons. With easy to moderately difficult hikes, that can be easily traversed by children and older people alike, to the majestic Tsongmo Lake, and the rapid water sports in the Teesta and Rangeet river, Sikkim has something to offer to people from every walk of life. March is one the perfect months to visit the place for its breezy weather and slightly nippy air for those who want to experience Sikkim in its full glory.</item>
+        <item>Coorg is often called an affluent hill station, nestled in the lap of luxury and raw natural beauty. During the period of March to May, the tea and spice plantations start blooming, and the valleys are filled with the fragrance, making Coorg not only a treat for your eyes but also for all your senses. A paradise for beginners in trekking, Coorg also proves to be an elitist destination with 3 golf courses in Mercarra, Polibetta and Bitangla. Often referred to as the \‘Scotland of India\’, Coorg calls for a spot on your bucket list for its mesmerising natural beauty.</item>
+    </string-array>
+
+    <string-array name="apr_places">
+        <item>Auli</item>
+        <item>Wayanad</item>
+        <item>Pachmarhi</item>
+        <item>Coorg</item>
+        <item>Cherrapunjee</item>
+    </string-array>
+    <string-array name="apr_desc">
+        <item>One of the most adventurous and yet safe options among the Himalayan Ski circuit, Auli is known still one of the lesser marvels on Devbhoomi, Uttarakhand. April is one the most comfortable months to visit here, for the temperatures range from 7-17 degrees. The lush conifers surrounding this snowy paradise make for the perfect view. Many easy single day trek options are also available. Auli is one of the unforgettable and offbeat summer locations in India that must figure in your bucket list.</item>
+        <item>Misty hills and a lush green cover cloaking these hills, Wayanad is truly a trip for the senses. Kerala is a major producer of aromatic products like cardamom, vanilla, coffee and tea, and a leisure walk through plantations of these is enough to transport you to a nether realm. Wayanad is known to be home to the oldest traced tribes who practice age-old customs and lead a nomadic life. Wayanad is your perfect detox from the overwhelming urban life, it is a vacation fit for gods.</item>
+        <item>With the Satpura Tiger Reserve close-by, Pachmarhi is one of the most serene spots in the heart of the country. The only hill station in Madhya Pradesh is flanked on all sides by the majestic Satpura range and dotted with beautiful 10,000 year old man-made cave shelters, dense sal forests and bamboo thickets. The cool and calm environs all around the year make Pachmarhi the top pick for summers.</item>
+        <item>Located amidst imposing mountains in Karnataka with a perpetually misty landscape, Coorg is the place to be for all nature lovers.Officially known as Kodagu, is the most affluent hill station in Karnataka. It is well known for its breathtakingly exotic scenery and lush greenery. Forest covered hills, spice and coffee plantations only add to the landscape. is the region\’s centre point with all transportation for getting around starting from here. To beat the scorching heat of Indian summers, a lot of tourists choose Coorg as their summer destination. The temperature in summers ranges between 22°C - 40°C. The mist of clouds covering the mountains and the pleasant breeze accompanying throughout definitely makes Coorg a much sought-after destination in April.</item>
+        <item>Among the wettest place on the Earth, Cherrapunjee with its clean and pristine surroundings is an excellent place to sit back and unwind. With a unique climate gifted to the area, its untouched beauty and an environment similar to the freshest dew drops, Cherrapunjee is sure to refresh you inside out. The waterfalls in the area only compliment the climate and the flattering pleasant air around. These include the Dain Thelen falls, Noh Sngithiang falls, Noh Kalikai falls and more. This rainy misty place is also famous for astounding tourists with the lavish spread of the Bangladesh plains from its cliffs.  </item>
+    </string-array>
+
+    <string-array name="may_places">
+        <item>Horsley Hills, Andhra Pradesh</item>
+        <item>Shillong – Cherrapunjee – Mawlynnong, Meghalaya</item>
+        <item>Manali, Himachal Pradesh</item>
+        <item>Tawang, Arunachal Pradesh</item>
+        <item>Dras – Nubra Valley, Jammu and Kashmir</item>
+    </string-array>
+    <string-array name="may_desc">
+        <item>One of the most scenic places in the state, the hills provide a good break from the town and its heat. With plenty of time and ways to be with nature, Horsley Hills are a paradise. The way to the hills is panoramic too,  with Mahogany, Jacaranda, Sandalwood, Gulmohar and Eucalyptus trees lining the road. Just when you begin to feel life has slowed down too much since you\’ve come here, brace yourself for the lesser known thing about this place – adventure sports, which includes zorbing, rappelling, rock climbing and trekking.</item>
+        <item>The beautiful mountains of this region are a joy to watch. There are coal mines that can be spotted, legal and illegal, while you travel to Cherrapunjee from Shillong. Shillong in itself, is a really beautiful town, the capital of Meghalaya as well. It is perhaps the only place in India where taxi drivers themselves sit on someone\’s lap and drive. Here, even the traditional societal roles of a man and woman are reversed, with women doing most of the business. Scenic viewpoints, caves en route to Cherrapunjee, views of Bangladesh from both Cherrapunjee and Mawlynnong, Asia\’s cleanest village. These are just some of the things that will make your jaw drop.Shillong reservoir - Best paces to visit in May in India</item>
+        <item>Already visited by most of us, Manali never fails to make it to any list about beating the heat of May. Forever charming, this place never fails to make you go awestruck. Thick forests and cool breeze characterize the hill station. Major attractions include Hadimba Temple, Vashisth, monastries, Solang Valley, Rohtang Pass and Club House.</item>
+        <item>Situated at a height of 10000 feet, Tawang\‘s beauty reaches out to your soul. With Tibet to its northern side, Sela range of West Kameng to the east, and Bhutan to the southwest, Tawang is beautifully located. Breathtaking valleys, amazing waterfalls and misty rivers add to the charm. Tawang Monastery, Sela Pass, Shonga-tser Lake, Nuranang waterfalls and Bumla Pass are places that deserve a visit in May in India, when in Tawang.</item>
+        <item>During the Kargil war, there was an armed conflict between Indian and Pakistani troops at an elevation of 10,990 feet in the state of Jammu and Kashmir. The place is known as Drass. ‘The Gateway to Ladakh’, Drass is the second coldest inhabited region in the world. Drass valley starts from the base of Zoji-la Pass, from where you can take a 3-day long trek in May and visit places like Mushko Valley, Dras War Memorial and Draupadi Kund.Nubra Valley offers any traveller the sights of their lifetime. Wide landscapes, mystical Shyok river and the gorgeous mountain faces are enough to take you into a different world altogether.</item>
+    </string-array>
+
+    <string-array name="june_places">
+        <item>Manali, Himachal Pradesh</item>
+        <item>Gangtok, Sikkim</item>
+        <item>Coorg, Karnataka</item>
+        <item> Dalhousie, Himachal Pradesh</item>
+        <item>McLeodganj, Himachal Pradesh</item>
+    </string-array>
+    <string-array name="june_desc">
+        <item>Manali is a year-round magnet for tourists, with a spectacular view of the Pir Panjal and Dhauladhar ranges, and the Bear River flowing through the town. It beacons all kind of tourists here; the backpackers come here to hang out in the hippy villages, adventure tourists come for enjoying the adventure sports, and the honeymoon couples and families for the cool mountain air. It is also a great spot for unwinding before continuing the ardours journey into the mountains, as it is the jumping-off point for Ladakh, Spiti and Lahaul.</item>
+        <item>One of the most visited destinations in India, Gangtok is a beautiful and serene town housing a great number of Buddhist monasteries. It swarms with tourists in the month of June because of the pleasant weather. The mighty Kanchenjunga serves some of the most mesmerising views during the sunset and sunrise. What makes Gangtok more alluring is the blend of varied cultures and religions. It is the perfect destination for a relaxing vacation on the nature trails.Gangtok_Best Places to Visit in June, places to visit for summer vacation</item>
+        <item>Gifted with emerald landscapes and acres of plantations, Coorg is nestled amid the ageless hills and is a major centre for coffee and spice plantation. This is one of the most preferred tourist destinations in the South. The uneven and cool terrain makes it a great spot for trekking and bird watching. Visiting Coorg is rejuvenation guaranteed! Innumerous waterfalls make June one of the best time to visit this place.</item>
+        <item>Yet another hill station established by the British, Dalhousie is a little less explored place retaining the old world charm in its colonial mansions. It provides a fascinating view of the nearby valleys and the lush surroundings. It has a number of mountains and river streams which are a must visit for the tourists. A perfect place to sit back and relax, Dalhousie transports you to a pollution-free environment in the lap of nature.</item>
+        <item>Mcleodganj is a hill station located near Dharamshala. With beautiful Tibetan culture influenced by British architecture, sumptuous food, mesmerising view of Dhauladar makes it a must visit place in June.</item>
+    </string-array>
+
+    <string-array name="july_places">
+        <item>Shillong, Meghalaya</item>
+        <item>Orchha, Madhya Pradesh</item>
+        <item>Goa</item>
+        <item>Dalhousie, Himachal Pradesh</item>
+        <item>Ladakh, Jammu and Kashmir</item>
+    </string-array>
+    <string-array name="july_desc">
+        <item>Known as the “Scotland of the East” because of the rolling hills and peaks around the town, Shillong during monsoons is a great place to be visited as it sees plenty of rainfall and less of tourists which makes it a perfect time to visit. The lush misty hills, high waterfalls and brimming lakes are a must see and the fact that it situated far away from the bustling city has made it retain its charm.</item>
+        <item>The city of historic palaces and temples nestled between forests and vegetation livens up in monsoons. The rains give it a rustic charm. The Betwa river is one of the important rivers in Madhya Pradesh, has seven streams converging at Orchha which makes it a sight to watch. By and large, Madhya Pradesh receives less rainfall and seldom ferocious one, making Orchha an ideal destination to head during monsoons.</item>
+        <item>Goa in monsoons has much to offer than just its beaches. The rain is refreshing and splashes nature’s colors over the state. Goa has a lot of wildlife sanctuaries of which Mollem National Park and Cotigao Wildlife Sanctuaries are particularly favored during monsoons. The magnificent Dudhsagar Falls located near the Mollem National Park is at its best during the monsoons. A quiet boat cruise along the Mandovi River is another thing you could do here. July being an off season, the rates are pretty cheap however most of the beach shacks and water activities may be closed.</item>
+        <item>Practically built over five hills, what better place to visit in monsoons than this? Dalhousie in July receives mild rainfalls which makes this place rather pleasant. Apart from the inviting lush greenery around, it even has many adventure sporting activities to boast. Scenic beauty at its best, Dalhousie isn\’t one to disappoint during monsoons.</item>
+        <item>A place of mountain routes and beautiful monasteries, solitude is best attained here. With little rainfalls, splendid Pangong Lake, rugged mountain ranges and picturesque Nubra valley and a motorcycle and you’re set for enriching ride. June- September is a peak season here in Ladakh but you could beat most of the crowd if you plan a trip through Leh.</item>
+    </string-array>
+
+    <string-array name="aug_places">
+        <item>Munnar, Kerala</item>
+        <item>Cherrapunjee, Meghalaya</item>
+        <item>Agumbe, Karnataka</item>
+        <item>Kodaikanal, Tamil Nadu</item>
+        <item>Lahaul – Spiti, Himachal Pradesh</item>
+    </string-array>
+    <string-array name="aug_desc">
+        <item>Mist induced rolling tea gardens and spice plantation with dewdrops rolling from the leaves and branches, Munnar in August is a nothing short of a nature lover’s paradise. The high mountains half covered in mist while the rain revitalizes everything it can touch. It\’s an ideal escape if you\’re looking for some quiet time amidst the mountains. Not being a tourist season in August, you can enjoy all of this without any rush and the off season prices!</item>
+        <item>Second wettest place on the planet, Cherrapunjee practically receives rains throughout the year. If you love the ferocity of the rains, then you have to visit Cherrapunjee during monsoons, covered with vast landscape and hills, it makes for an exciting monsoon trekking trip. You can also find the unique orange flower honey here and don\’t forget to try the Meghalaya tea which is quite different to the Assam or Darjeeling tea. The double decker tree bridges are one of its kind experience that one can have the best in the late monsoon when the greenery is in full bloom.</item>
+        <item>Agumbe is one of the most popular treks in South India especially in August. The mountains and valleys are filled with numerous waterfalls which are a prime attraction; there are also ruins of temples dating back to the Hoysala Empire which is worth a visit. There is a gallery erected on a high point of the hills to view the sunset and you can see as far as the Arabian Sea. A nice trek could be followed by some hot tea only here you get a Vanilla flavoured tea which is just so much better. If the scenes in Agumbe seem much too familiar to you; it\’s because it served as a setting to the famous TV adaption of the book Malgudi Days.</item>
+        <item>One of the most visited hill stations in Tamil Nadu, Kodaikanal receives moderate rainfall. Often, you’ll find the clouds and sun playing hide and seek with the mountains during your stay in Kodaikanal in August during monsoons. The otherwise hot climate is quite pleasant during the monsoons with the rain swept valleys and misty mountains. This is the only time when the region is sploshed with waterfalls.</item>
+        <item>The Valleys of Lahaul- Spiti are blessed with nature\’s best. It is one of the sparsely populated areas and is ideal for a place for some solitude. It also offers a lot of adventure activities such as Skiing along with Yak Safari and exciting wildlife trails. There are beautiful monasteries that command a visit alongside some unique shrines that speak of the customs and faith of this region. Leh-Spiti are not accessible during winters for most of the people as the Manali-Leh route is closed and the other route from Shimla via Kinnaur also sees lots of disturbances due to landslides and heavy snowfall. Hence, Lahaul-Spiti is one of the best places to visit in August in India.</item>
+    </string-array>
+
+    <string-array name="sep_places">
+        <item>Lachen, Sikkim</item>
+        <item>Coonoor, Tamil Nadu</item>
+        <item>Amritsar, Punjab</item>
+        <item>Shillong, Meghalaya</item>
+        <item>Bundi, Rajasthan</item>
+    </string-array>
+    <string-array name="sep_desc">
+        <item>Placed in the lap of the Himalayan ranges, Lachen is a small village comprising of about 150-200 houses, majorly inhabited by the Tibetans and Bhutia tribes. The centuries old Lachen Monastery situated atop the village offers a panoramic view of the town. Challenging trekking trails, lush valleys, serene lakes and secluded landscapes are some of the things that Lachen has to offer. This untouched beauty has only recently been open to tourists has much to offer to both the adventurous and solitude searching souls.</item>
+        <item>A relatively unexplored part of the Southern India, Coonoor is a beautiful town in Tamil Nadu that is packed with some exciting mix of attractions. The more than a hundred-year-old Sim’s Park which is a rather unusual botanical garden exhibiting a variety of floral and shrubs, the Lamb\’s Rock offers a bird view of the landscape, while the Dolphin’s nose, St Catherine Falls and Hidden Valley are other must see places in Coonoor which makes for an all season destination.</item>
+        <item>The holy city of Punjab is quite pleasant around this time with occasional showers and full of greenery. The world famous Golden Temple is crowded throughout the year while places like Chand Baori, Durgiana Temple, Akal Takht and the spectacular Wagah Border Ceremony. The Jallianwala Bagh site has much history of the country to not be missed. Visit Amritsar in September before the peak season for holidays begin in October.</item>
+        <item>Packed with numerous waterfalls, beautiful mountain peaks, vast lakes, museums, zoo and exciting golf courses to boast, this Capital of Meghalaya has something for every kind of traveler. September is an ideal time to visit Shillong when the rains are scarce and adorn the fresh look with the extremely pleasant weather.</item>
+        <item>For over six hundred years, Bundi served as the battleground for wars that took place between the Marathas, British and the Rajputs. Rich in the history replete with palaces, forts, havelis and many such historical sites, Bundi occupies an integral place in the cultural and historical map of Rajasthan. This sta, on the whole, e sees less rainfall and the weather around September is cooler making it an ideal destination to explore some deep-rooted history while enjoying the cool climate of Rajasthan.</item>
+    </string-array>
+
+    <string-array name="oct_places">
+        <item>Pachmarhi, Madhya Pradesh: Witness the beautiful October sunrise!</item>
+        <item>Kutch, Gujarat: Spend an October night in huts amidst the white sand deserts</item>
+        <item>Hampi, Karnataka: Capture the marvel of the ruins this October!</item>
+        <item>Ziro, Arunachal Pradesh: Amazing October weather and landscape!</item>
+        <item>Rishikesh, Uttarakhand: Enjoy the adrenaline rush this October</item>
+    </string-array>
+    <string-array name="oct_desc">
+        <item>The only hill station in Madhya Pradesh, Pachmarhi is often known as the queen of the Satpura ranges. With the weather becoming just about right for the enchanting views, holidays in October are a good time to visit Pachmarhi</item>
+        <item>One of the most surreal places in India, with a white salt desert and beautiful moonlight nights, Kutch lies in the western most part of India and it shares a boundary with Pakistan. With deserts, oasis, beaches, heritage palaces, delicious food, religious temples, wildlife sanctuaries, etc. all in the same district, Bhuj including Kutch is one of the few destination in India that offers almost everything. Kachch looks even more surreal on full-moon nights with light falling on the white salt desert . The beauty of the place and pleasant weather makes it one of the best places to visit in India in October.</item>
+        <item>One of the 32 UNESCO World Heritage Sites in India, Hampi was the capital of Vijayanagar Empire in 13th century with magnificient temples and architectural wonders. The city is in ruins now, but it serves as one of the most interesting places in India to hangout with good weather and ambience to spend some time away from the cities. If you’re looking for a quick getaway from Bengaluru for a weekend in October, Hampi is only an overnight train ride away.</item>
+        <item>Perfect for an offbeat holiday, Ziro is a small town in eastern part of Arunachal Pradesh. Surrounded by hills on the sides with lush green paddy fields in the town, Ziro is mostly inhabited by the Apa Tani Tribes. If you missed the Ziro music festival in September, and want to see what is this beautiful hidden gem that everyone is talking about, October holidays are the right time to visit Ziro with monsoon season over and winters just starting to set in.</item>
+        <item>One of the most amazing adventure hubs in India, Rishikesh along with its twin city Haridwar is also of prime religious importance. If you are planning to go for bungee jumping or for river rafting, holidays in October are an ideal time to visit Rishikesh before the weather gets too chilly.</item>
+    </string-array>
+
+    <string-array name="nov_places">
+        <item>Varanasi, Uttar Pradesh – A festival by the river</item>
+        <item> Jaisalmer, Rajasthan - November in the Golden City</item>
+        <item>Tarkarli, Maharashtra- The lesser known beach holiday</item>
+        <item> Bodh Gaya, Bihar - A rather sacred November</item>
+        <item>Shantiniketan, West Bengal - A calm November</item>
+    </string-array>
+    <string-array name="nov_desc">
+        <item>Sometime during the last week of November, the banks of Ganges host one of the most significant festivals of Indian Classical Music and Dance. Other than pilgrims, one finds some of the most celebrated artists like Pandit Birju Maharaj, Kailash Kher performing in Varanasi. Also taking place about during the same time is Dev Deepawali, which is marked by grand aartis and leaves the stairs to the river lit with countless diyas, and the river itself glittering under the reflection of the city. All these aspects make it one of the places to visit in November in India. </item>
+        <item>What is avoided and unkempt in summers is festive, colourful and welcoming by the winters. With its sands a bit cooler, November in Jaisalmer looks forward to its desert safari, walking through its forts, palaces, and havelis and enjoying evenings by its lakes. It easily makes it to the best places to visit in November in India. Situated close to the Pakistan border, Jaisalmer\’s Sonar Quilla is a living fort replete with hotels, shops and old and majestic havelis</item>
+        <item>One of the most beautiful beaches of the state, Tarkarli offers long stretches of white sands, a scuba diving destination and an occasional spotting of dolphins. This one gets as close to a perfect beach holiday for november as one can. And we are not even done yet. Find a fort by the sea, a lazy and calm lake and a enjoy a boat ride through its backwaters. If you have raked up a few leaves and have offbeat travel on your mind, this is one of the great places to visit in November in India.</item>
+        <item>Believed to be the most sacred of Buddhist pilgrimage centres all over the world, the town is landmarked by descendants of the very Mahabodhi Tree under which Lord Buddha achieved enlightenment and the neighbouring Mahabodhi temple. Visit Bodhgaya during November for the pleasant weather and a celebrated hustle bustle, as the town plays host to a number of monks from Dharamshala.</item>
+        <item>A calm town near Kolkata known for its Tagore Ashram, the Nobel Laureate\’s vision and life events, a museum and art gallery. Like most of what\’s in and around, this university town is best enjoyed during November with its pleasant weather.</item>
+    </string-array>
+
+    <string-array name="dec_places">
+        <item>Konark, Odisha </item>
+        <item>Patnitop, Jammu and Kashmir</item>
+        <item>Ranthambore, Rajasthan</item>
+        <item> Chennai, Tamil Nadu: Places to visit in India in December</item>
+        <item>Murudeshwar, Karnataka</item>
+    </string-array>
+    <string-array name="dec_desc">
+        <item>While Konark is identified by the Sun temple located here, December in Konark is better known as hosts to an annual dance festival by the name of Konark Dance Festival. The temple, each and every structure and element that it finds itself adorned by, together with a celebration of the classical dances, leaves few better specimens of classical Indian arts and culture. Definitely a must visit place in India in December. While in Konark, don’t miss a stroll on a pristine stretch of golden sands, the Konark beach.</item>
+        <item>What is known for its parks, valleys, views and nature walks in summers turns into one of the best paragliding and skiing destination in India in December. One of the most popular hill resorts in Jammu and Kashmir, Patnitop is located in Udhampur and is surrounded by beautiful coniferous forests and snow capped mountains of the Pir Panjal range. The calm and serene atmosphere of this place offers a perfect relaxing getaway. Its slope as modest as the town itself, Patnitop is equally enjoyable for first timers, especially in December with a number of setups and ski courses coming up during the winter months.</item>
+        <item>One of the best tiger reserves of India, Ranthambore finds itself all the more welcoming in December with the pleasant drop in the temperature. A region known for being the richest centers of flora and fauna, a dreamy terrain amidst the Vindhya and Aravalli, this one also houses the Ranthambore Fort in the reserve. Apart from being the home of the endangered tiger, several other animal species are found here such as the wild cats, leopards, sloth bears, hyenas, Indian foxes, crocodiles and jackals. Compared to other tiger reserves, chances of tiger spotting are relatively higher at Ranthambore.</item>
+        <item>A growing city with a sleepless nightlife, this one effortlessly breathes in December with its humid summers long forgotten, Chennai becomes an amazing place to visit in India in December. Under Chennai’s metropolitan charm with a rich heritage in the backdrop, churches marking its maps and beaches tantalizing its fast moving life. While here do not miss its temples and their elaborate and intricate architecture and the very famous Vandalur Zoo. Something else that Chennai is famous for, is the Marina Beach, which is the longest beach in India. Watching the sunset at Marina Beach is truly an amazing experience altogether.</item>
+        <item>A small temple town located on the western coast of India in the state of Karnataka, Murudeshwar is marked by the second highest Shiva statue in the world. This structure watches over the sea and all that’s around and is worth the sprain in the neck. Murudeshwar in December is also surprisingly a venue for Scuba Diving. With its scuba diving facilities active during a few months, head to the city in December, to see the most of all that’s below its seas. It’s golden history, scenic beauty and calm, serene environment, makes it one of the places to visit in India in December.</item>
+    </string-array>
+
+</resources>

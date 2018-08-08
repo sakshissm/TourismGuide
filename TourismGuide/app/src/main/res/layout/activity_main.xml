@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f3f5f5"
+    android:orientation="vertical"
+    tools:context="com.apkglobal.tourismguide.MainActivity">
+
+    <FrameLayout
+        android:id="@+id/content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <android.support.percent.PercentRelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewpager"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                app:layout_heightPercent="40%"
+                app:layout_marginTopPercent="1%"
+                app:layout_widthPercent="100%">
+            </android.support.v4.view.ViewPager>
+
+            <TextView
+                android:id="@+id/textview"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_widthPercent="50%"
+                app:layout_heightPercent="10%"
+                app:layout_marginLeftPercent="25%"
+                app:layout_marginRightPercent="25%"
+                app:layout_marginTopPercent="45%"
+                android:layout_gravity="center"
+                android:text="Tourist Places In India"
+                android:textColor="#000"
+                android:textSize="18sp"
+                android:textAlignment="center"
+                />
+
+
+            <Button
+                android:id="@+id/month"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:background="@drawable/round_button_setting"
+                android:text="@string/month"
+                app:layout_heightPercent="8%"
+                app:layout_marginLeftPercent="25%"
+                app:layout_marginTopPercent="57%"
+                app:layout_widthPercent="50%" />
+
+
+            <Button
+                android:id="@+id/states"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:background="@drawable/round_button_setting"
+                android:text="@string/states"
+                app:layout_heightPercent="8%"
+                app:layout_marginLeftPercent="25%"
+                app:layout_marginTopPercent="72%"
+                app:layout_widthPercent="50%" />
+
+            <Button
+                android:id="@+id/near_by"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center"
+                android:background="@drawable/round_button_setting"
+                android:text="@string/near_by"
+                app:layout_heightPercent="8%"
+                app:layout_marginLeftPercent="25%"
+                app:layout_marginTopPercent="87%"
+                app:layout_widthPercent="50%" />
+        </android.support.percent.PercentRelativeLayout>
+    </FrameLayout>
+
+    <android.support.design.widget.BottomNavigationView
+        android:id="@+id/navigation"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_gravity="bottom"
+        android:background="?android:attr/windowBackground"
+        app:menu="@menu/navigation" />
+
+</LinearLayout>
